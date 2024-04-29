@@ -1,0 +1,890 @@
+START,STOP,PATIENT,ENCOUNTER,CODE,DESCRIPTION,BASE_COST,REASONCODE,REASONDESCRIPTION
+2015-01-12T22:34:30Z,2015-01-12T22:49:30Z,b37f7960-7e9e-f3f7-f891-79ae4f632406,81c86a96-6069-1a45-4f2d-d63fef0bd37c,117015009,Throat culture (procedure),2635.03,195662009,Acute viral pharyngitis (disorder)
+2016-02-26T18:34:30Z,2016-02-26T18:49:30Z,b37f7960-7e9e-f3f7-f891-79ae4f632406,2950dc87-2201-5919-f182-99324d016ac7,430193006,Medication Reconciliation (procedure),543.71,,
+2017-03-03T18:34:30Z,2017-03-03T18:49:30Z,b37f7960-7e9e-f3f7-f891-79ae4f632406,45bfd5d0-5b35-09b0-1b57-d8ab0b52ec0d,430193006,Medication Reconciliation (procedure),411.22,,
+2018-03-09T18:34:30Z,2018-03-09T18:49:30Z,b37f7960-7e9e-f3f7-f891-79ae4f632406,cfaef489-8097-dec6-f4a9-535610754f2c,430193006,Medication Reconciliation (procedure),513.53,,
+2020-03-20T18:34:30Z,2020-03-20T18:49:30Z,b37f7960-7e9e-f3f7-f891-79ae4f632406,f39f72c0-8de1-111b-a858-d06fc0feecf1,430193006,Medication Reconciliation (procedure),429.59,,
+2021-02-17T18:34:30Z,2021-02-17T18:47:19Z,b37f7960-7e9e-f3f7-f891-79ae4f632406,95d11eb7-5a3d-cac9-ef94-4752d9c7cf90,261352009,Face mask (physical object),2.20,840544004,Suspected COVID-19
+2021-03-26T18:34:30Z,2021-03-26T18:49:30Z,b37f7960-7e9e-f3f7-f891-79ae4f632406,b6845ea5-1cdc-25e8-a89b-09d7635298a1,430193006,Medication Reconciliation (procedure),646.35,,
+2021-10-15T18:34:30Z,2021-10-15T19:04:30Z,b37f7960-7e9e-f3f7-f891-79ae4f632406,96b94d93-9f50-f083-e730-a3d07a97c026,60027007,Radiography of wrist (procedure),431.40,,
+2021-10-15T18:34:30Z,2021-10-15T19:09:19Z,b37f7960-7e9e-f3f7-f891-79ae4f632406,96b94d93-9f50-f083-e730-a3d07a97c026,274474001,Bone immobilization,431.40,263102004,Fracture subluxation of wrist
+2015-07-06T09:59:54Z,2015-07-06T10:48:50Z,515991e2-40dd-22c1-c377-e0b71ad973b9,21583083-6825-2d36-8b89-8b88c3737af1,710824005,Assessment of health and social care needs (procedure),431.40,,
+2015-07-06T10:48:50Z,2015-07-06T11:10:48Z,515991e2-40dd-22c1-c377-e0b71ad973b9,21583083-6825-2d36-8b89-8b88c3737af1,710841007,Assessment of anxiety (procedure),431.40,,
+2015-07-06T11:10:48Z,2015-07-06T11:38:20Z,515991e2-40dd-22c1-c377-e0b71ad973b9,21583083-6825-2d36-8b89-8b88c3737af1,866148006,Screening for domestic abuse (procedure),431.40,,
+2015-07-06T11:38:20Z,2015-07-06T11:50:05Z,515991e2-40dd-22c1-c377-e0b71ad973b9,21583083-6825-2d36-8b89-8b88c3737af1,171207006,Depression screening (procedure),431.40,,
+2015-07-06T11:50:05Z,2015-07-06T12:18:49Z,515991e2-40dd-22c1-c377-e0b71ad973b9,21583083-6825-2d36-8b89-8b88c3737af1,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2015-07-06T12:18:49Z,2015-07-06T12:39:26Z,515991e2-40dd-22c1-c377-e0b71ad973b9,21583083-6825-2d36-8b89-8b88c3737af1,715252007,Depression screening using Patient Health Questionnaire Nine Item score (procedure),31.71,,
+2015-07-06T12:39:26Z,2015-07-06T12:53:56Z,515991e2-40dd-22c1-c377-e0b71ad973b9,21583083-6825-2d36-8b89-8b88c3737af1,428211000124100,Assessment of substance use (procedure),431.40,,
+2015-07-06T12:53:56Z,2015-07-06T13:21:13Z,515991e2-40dd-22c1-c377-e0b71ad973b9,21583083-6825-2d36-8b89-8b88c3737af1,713106006,Screening for drug abuse (procedure),431.40,,
+2017-03-27T09:59:54Z,2017-03-27T10:56:50Z,515991e2-40dd-22c1-c377-e0b71ad973b9,c528c74d-1ca4-6dc5-bf95-aa98edd5964f,68254000,Removal of intrauterine device,11946.88,,
+2017-05-15T09:59:54Z,2017-05-15T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,6eec4b8a-5306-1505-d309-8a05a78effc1,252160004,Standard pregnancy test,3871.48,72892002,Normal pregnancy
+2017-05-15T09:59:54Z,2017-05-15T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,6eec4b8a-5306-1505-d309-8a05a78effc1,169230002,Ultrasound scan for fetal viability,9715.98,72892002,Normal pregnancy
+2017-06-03T09:59:54Z,2017-06-03T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,3c14d5a5-0acf-504d-e34e-25657ade9d09,10383002,Counseling for termination of pregnancy,431.40,72892002,Normal pregnancy
+2017-06-03T09:59:54Z,2017-06-03T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,3c14d5a5-0acf-504d-e34e-25657ade9d09,714812005,Induced termination of pregnancy,9811.95,72892002,Normal pregnancy
+2023-04-07T18:34:30Z,2023-04-07T18:48:32Z,b37f7960-7e9e-f3f7-f891-79ae4f632406,e0217fa2-8fab-a969-6c69-10c7ecb36fff,171207006,Depression screening (procedure),431.40,,
+2023-04-07T18:48:32Z,2023-04-07T19:18:14Z,b37f7960-7e9e-f3f7-f891-79ae4f632406,e0217fa2-8fab-a969-6c69-10c7ecb36fff,715252007,Depression screening using Patient Health Questionnaire Nine Item score (procedure),29.57,,
+2023-04-07T19:18:14Z,2023-04-07T19:30:25Z,b37f7960-7e9e-f3f7-f891-79ae4f632406,e0217fa2-8fab-a969-6c69-10c7ecb36fff,428211000124100,Assessment of substance use (procedure),431.40,,
+2023-04-07T19:30:25Z,2023-04-07T19:57:09Z,b37f7960-7e9e-f3f7-f891-79ae4f632406,e0217fa2-8fab-a969-6c69-10c7ecb36fff,868187001,Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure),431.40,,
+2023-04-07T19:57:09Z,2023-04-07T20:05:40Z,b37f7960-7e9e-f3f7-f891-79ae4f632406,e0217fa2-8fab-a969-6c69-10c7ecb36fff,370995009,Health risks education (procedure),431.40,160968000,Risk activity involvement (finding)
+2017-06-14T09:59:54Z,2017-06-14T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,e98e3d4a-3222-7ec1-8187-32071e0abadd,51116004,Passive immunization (procedure),2908.33,72892002,Normal pregnancy
+2017-06-14T09:59:54Z,2017-06-14T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,e98e3d4a-3222-7ec1-8187-32071e0abadd,386394001,Pregnancy termination care,611.54,72892002,Normal pregnancy
+2017-06-14T09:59:54Z,2017-06-14T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,e98e3d4a-3222-7ec1-8187-32071e0abadd,5880005,Physical examination procedure (procedure),431.40,72892002,Normal pregnancy
+2017-06-14T09:59:54Z,2017-06-14T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,e98e3d4a-3222-7ec1-8187-32071e0abadd,171207006,Depression screening,431.40,72892002,Normal pregnancy
+2024-04-12T18:34:30Z,2024-04-12T18:55:30Z,b37f7960-7e9e-f3f7-f891-79ae4f632406,4fb90d70-0b11-2f3e-c1df-b0107a985e4a,710841007,Assessment of anxiety (procedure),431.40,,
+2024-04-12T18:55:30Z,2024-04-12T19:07:18Z,b37f7960-7e9e-f3f7-f891-79ae4f632406,4fb90d70-0b11-2f3e-c1df-b0107a985e4a,171207006,Depression screening (procedure),431.40,,
+2024-04-12T19:07:18Z,2024-04-12T19:33:40Z,b37f7960-7e9e-f3f7-f891-79ae4f632406,4fb90d70-0b11-2f3e-c1df-b0107a985e4a,715252007,Depression screening using Patient Health Questionnaire Nine Item score (procedure),30.86,,
+2024-04-12T19:33:40Z,2024-04-12T19:45:59Z,b37f7960-7e9e-f3f7-f891-79ae4f632406,4fb90d70-0b11-2f3e-c1df-b0107a985e4a,428211000124100,Assessment of substance use (procedure),431.40,,
+2024-04-12T19:45:59Z,2024-04-12T20:08:06Z,b37f7960-7e9e-f3f7-f891-79ae4f632406,4fb90d70-0b11-2f3e-c1df-b0107a985e4a,868187001,Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure),431.40,,
+2024-04-12T20:08:06Z,2024-04-12T20:21:17Z,b37f7960-7e9e-f3f7-f891-79ae4f632406,4fb90d70-0b11-2f3e-c1df-b0107a985e4a,386516004,Anticipatory guidance (procedure),431.40,,
+2018-07-09T09:59:54Z,2018-07-09T10:40:22Z,515991e2-40dd-22c1-c377-e0b71ad973b9,14f8fb44-a43a-af9f-149a-a110a96419c9,710824005,Assessment of health and social care needs (procedure),431.40,,
+2018-07-09T10:40:22Z,2018-07-09T10:51:47Z,515991e2-40dd-22c1-c377-e0b71ad973b9,14f8fb44-a43a-af9f-149a-a110a96419c9,171207006,Depression screening (procedure),431.40,,
+2018-07-09T10:51:47Z,2018-07-09T11:12:08Z,515991e2-40dd-22c1-c377-e0b71ad973b9,14f8fb44-a43a-af9f-149a-a110a96419c9,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2018-07-09T11:12:08Z,2018-07-09T11:23:27Z,515991e2-40dd-22c1-c377-e0b71ad973b9,14f8fb44-a43a-af9f-149a-a110a96419c9,428211000124100,Assessment of substance use (procedure),431.40,,
+2018-07-09T11:23:27Z,2018-07-09T11:49:59Z,515991e2-40dd-22c1-c377-e0b71ad973b9,14f8fb44-a43a-af9f-149a-a110a96419c9,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2019-04-15T09:59:54Z,2019-04-15T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,aedd6547-3442-b352-3bda-2bf8cb6b2ee8,252160004,Standard pregnancy test,6822.46,72892002,Normal pregnancy
+2019-04-15T09:59:54Z,2019-04-15T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,aedd6547-3442-b352-3bda-2bf8cb6b2ee8,169230002,Ultrasound scan for fetal viability,9842.04,72892002,Normal pregnancy
+2019-05-05T09:59:54Z,2019-05-05T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,f52ac05f-0c8c-5bde-8eeb-08454b2be4a9,10383002,Counseling for termination of pregnancy,431.40,72892002,Normal pregnancy
+2019-05-05T09:59:54Z,2019-05-05T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,f52ac05f-0c8c-5bde-8eeb-08454b2be4a9,714812005,Induced termination of pregnancy,9196.20,72892002,Normal pregnancy
+2019-05-24T09:59:54Z,2019-05-24T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,20f0b0cc-7061-a06e-e64b-d8eeb844d103,51116004,Passive immunization (procedure),3989.71,72892002,Normal pregnancy
+2019-05-24T09:59:54Z,2019-05-24T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,20f0b0cc-7061-a06e-e64b-d8eeb844d103,386394001,Pregnancy termination care,523.50,72892002,Normal pregnancy
+2019-05-24T09:59:54Z,2019-05-24T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,20f0b0cc-7061-a06e-e64b-d8eeb844d103,5880005,Physical examination procedure (procedure),431.40,72892002,Normal pregnancy
+2019-05-24T09:59:54Z,2019-05-24T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,20f0b0cc-7061-a06e-e64b-d8eeb844d103,171207006,Depression screening,431.40,72892002,Normal pregnancy
+2020-10-05T09:59:54Z,2020-10-05T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,51c2279a-5782-46a1-a0f0-92611e14de51,252160004,Standard pregnancy test,5757.80,72892002,Normal pregnancy
+2020-10-05T09:59:54Z,2020-10-05T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,51c2279a-5782-46a1-a0f0-92611e14de51,169230002,Ultrasound scan for fetal viability,9757.58,72892002,Normal pregnancy
+2020-10-15T09:59:54Z,2020-10-15T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,8c423671-34a0-16b5-f4a8-3ed69066f201,10383002,Counseling for termination of pregnancy,431.40,72892002,Normal pregnancy
+2020-10-15T09:59:54Z,2020-10-15T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,8c423671-34a0-16b5-f4a8-3ed69066f201,714812005,Induced termination of pregnancy,7785.86,72892002,Normal pregnancy
+2020-10-29T09:59:54Z,2020-10-29T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,b85c1fbc-d31f-f405-b1e1-920f765e44b3,51116004,Passive immunization (procedure),2594.11,72892002,Normal pregnancy
+2020-10-29T09:59:54Z,2020-10-29T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,b85c1fbc-d31f-f405-b1e1-920f765e44b3,386394001,Pregnancy termination care,694.57,72892002,Normal pregnancy
+2020-10-29T09:59:54Z,2020-10-29T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,b85c1fbc-d31f-f405-b1e1-920f765e44b3,5880005,Physical examination procedure (procedure),431.40,72892002,Normal pregnancy
+2020-10-29T09:59:54Z,2020-10-29T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,b85c1fbc-d31f-f405-b1e1-920f765e44b3,171207006,Depression screening,431.40,72892002,Normal pregnancy
+2021-07-12T09:59:54Z,2021-07-12T10:34:52Z,515991e2-40dd-22c1-c377-e0b71ad973b9,35eda0e9-6994-e3de-5dfc-e5ea40e4335e,710824005,Assessment of health and social care needs (procedure),431.40,,
+2021-08-23T09:59:54Z,2021-08-23T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,56e0a297-2dec-2123-86f3-c2e6ee157099,252160004,Standard pregnancy test,4658.85,72892002,Normal pregnancy
+2021-08-23T09:59:54Z,2021-08-23T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,56e0a297-2dec-2123-86f3-c2e6ee157099,169230002,Ultrasound scan for fetal viability,10112.18,72892002,Normal pregnancy
+2021-08-23T09:59:54Z,2021-08-23T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,56e0a297-2dec-2123-86f3-c2e6ee157099,274804006,Evaluation of uterine fundal height,6077.80,72892002,Normal pregnancy
+2021-08-23T09:59:54Z,2021-08-23T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,56e0a297-2dec-2123-86f3-c2e6ee157099,225158009,Auscultation of the fetal heart,5284.82,72892002,Normal pregnancy
+2021-08-23T09:59:54Z,2021-08-23T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,56e0a297-2dec-2123-86f3-c2e6ee157099,44608003,Blood group typing (procedure),2099.09,72892002,Normal pregnancy
+2021-08-23T09:59:54Z,2021-08-23T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,56e0a297-2dec-2123-86f3-c2e6ee157099,104091002,Hemogram  automated  with RBC  WBC  Hgb  Hct  Indices  Platelet count  and manual WBC differential,1282.68,72892002,Normal pregnancy
+2021-08-23T09:59:54Z,2021-08-23T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,56e0a297-2dec-2123-86f3-c2e6ee157099,47758006,Hepatitis B Surface Antigen Measurement,1991.80,72892002,Normal pregnancy
+2021-08-23T09:59:54Z,2021-08-23T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,56e0a297-2dec-2123-86f3-c2e6ee157099,31676001,Human immunodeficiency virus antigen test,1327.70,72892002,Normal pregnancy
+2021-08-23T09:59:54Z,2021-08-23T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,56e0a297-2dec-2123-86f3-c2e6ee157099,310861008,Chlamydia antigen test,1934.71,72892002,Normal pregnancy
+2021-08-23T09:59:54Z,2021-08-23T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,56e0a297-2dec-2123-86f3-c2e6ee157099,165829005,Gonorrhea infection titer test (procedure),2426.58,72892002,Normal pregnancy
+2021-08-23T09:59:54Z,2021-08-23T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,56e0a297-2dec-2123-86f3-c2e6ee157099,269828009,Syphilis infectious titer test (procedure),1479.60,72892002,Normal pregnancy
+2021-08-23T09:59:54Z,2021-08-23T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,56e0a297-2dec-2123-86f3-c2e6ee157099,117010004,Urine culture,2788.07,72892002,Normal pregnancy
+2021-08-23T09:59:54Z,2021-08-23T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,56e0a297-2dec-2123-86f3-c2e6ee157099,90226004,Cytopathology procedure  preparation of smear  genital source,2576.99,72892002,Normal pregnancy
+2021-08-23T09:59:54Z,2021-08-23T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,56e0a297-2dec-2123-86f3-c2e6ee157099,395123002,Urine screening test for diabetes,2139.47,72892002,Normal pregnancy
+2021-08-23T09:59:54Z,2021-08-23T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,56e0a297-2dec-2123-86f3-c2e6ee157099,104375008,Hepatitis C antibody  confirmatory test,2592.20,72892002,Normal pregnancy
+2021-08-23T09:59:54Z,2021-08-23T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,56e0a297-2dec-2123-86f3-c2e6ee157099,169690007,Rubella screening,2530.14,72892002,Normal pregnancy
+2021-08-23T09:59:54Z,2021-08-23T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,56e0a297-2dec-2123-86f3-c2e6ee157099,104326007,Measurement of Varicella-zoster virus antibody,1741.42,72892002,Normal pregnancy
+2021-08-23T09:59:54Z,2021-08-23T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,56e0a297-2dec-2123-86f3-c2e6ee157099,28163009,Skin test for tuberculosis  Tine test (procedure),1612.14,72892002,Normal pregnancy
+2021-08-23T09:59:54Z,2021-08-23T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,56e0a297-2dec-2123-86f3-c2e6ee157099,167271000,Urine protein test,2918.85,72892002,Normal pregnancy
+2021-08-23T09:59:54Z,2021-08-23T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,56e0a297-2dec-2123-86f3-c2e6ee157099,5880005,Physical examination procedure (procedure),431.40,72892002,Normal pregnancy
+2021-09-20T09:59:54Z,2021-09-20T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,22055897-94d3-9519-724d-3de07fb6eb45,274804006,Evaluation of uterine fundal height,3464.29,72892002,Normal pregnancy
+2021-09-20T09:59:54Z,2021-09-20T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,22055897-94d3-9519-724d-3de07fb6eb45,225158009,Auscultation of the fetal heart,7805.80,72892002,Normal pregnancy
+2021-09-20T09:59:54Z,2021-09-20T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,22055897-94d3-9519-724d-3de07fb6eb45,443529005,Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure),2272.08,72892002,Normal pregnancy
+2021-10-18T09:59:54Z,2021-10-18T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,206c3728-6ad8-a119-426b-332a66367ec2,271442007,Fetal anatomy study,431.40,72892002,Normal pregnancy
+2021-10-18T09:59:54Z,2021-10-18T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,206c3728-6ad8-a119-426b-332a66367ec2,275833003,AFP test - antenatal,1737.50,72892002,Normal pregnancy
+2021-10-18T09:59:54Z,2021-10-18T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,206c3728-6ad8-a119-426b-332a66367ec2,274804006,Evaluation of uterine fundal height,5571.37,72892002,Normal pregnancy
+2021-10-18T09:59:54Z,2021-10-18T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,206c3728-6ad8-a119-426b-332a66367ec2,225158009,Auscultation of the fetal heart,4078.52,72892002,Normal pregnancy
+2021-11-15T09:59:54Z,2021-11-15T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,ae5d0914-3469-b1e8-a78a-e5b4b09f1234,274804006,Evaluation of uterine fundal height,5169.43,72892002,Normal pregnancy
+2021-11-15T09:59:54Z,2021-11-15T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,ae5d0914-3469-b1e8-a78a-e5b4b09f1234,225158009,Auscultation of the fetal heart,2877.97,72892002,Normal pregnancy
+2021-12-13T09:59:54Z,2021-12-13T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,5889c1f6-20ed-8d79-e26e-6de161adc317,274804006,Evaluation of uterine fundal height,7485.79,72892002,Normal pregnancy
+2021-12-13T09:59:54Z,2021-12-13T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,5889c1f6-20ed-8d79-e26e-6de161adc317,225158009,Auscultation of the fetal heart,5214.92,72892002,Normal pregnancy
+2022-01-10T09:59:54Z,2022-01-10T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,0448b641-1d45-5ec2-bf27-be1bbdafe5b9,169673001,Antenatal RhD antibody screening,1944.96,72892002,Normal pregnancy
+2022-01-10T09:59:54Z,2022-01-10T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,0448b641-1d45-5ec2-bf27-be1bbdafe5b9,51116004,Passive immunization (procedure),3413.94,72892002,Normal pregnancy
+2022-01-10T09:59:54Z,2022-01-10T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,0448b641-1d45-5ec2-bf27-be1bbdafe5b9,104091002,Hemogram  automated  with RBC  WBC  Hgb  Hct  Indices  Platelet count  and manual WBC differential,2118.61,72892002,Normal pregnancy
+2022-01-10T09:59:54Z,2022-01-10T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,0448b641-1d45-5ec2-bf27-be1bbdafe5b9,399014008,Administration of diphtheria  pertussis  and tetanus vaccine,3463.79,72892002,Normal pregnancy
+2022-01-10T09:59:54Z,2022-01-10T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,0448b641-1d45-5ec2-bf27-be1bbdafe5b9,268556000,Urine screening for glucose,2457.98,72892002,Normal pregnancy
+2022-01-10T09:59:54Z,2022-01-10T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,0448b641-1d45-5ec2-bf27-be1bbdafe5b9,274804006,Evaluation of uterine fundal height,5633.13,72892002,Normal pregnancy
+2022-01-10T09:59:54Z,2022-01-10T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,0448b641-1d45-5ec2-bf27-be1bbdafe5b9,225158009,Auscultation of the fetal heart,7407.32,72892002,Normal pregnancy
+2022-02-07T09:59:54Z,2022-02-07T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,23737b5b-95e4-bf41-4f0b-2b6b8f74c8cd,274804006,Evaluation of uterine fundal height,5278.10,72892002,Normal pregnancy
+2022-02-07T09:59:54Z,2022-02-07T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,23737b5b-95e4-bf41-4f0b-2b6b8f74c8cd,225158009,Auscultation of the fetal heart,5801.64,72892002,Normal pregnancy
+2022-03-07T09:59:54Z,2022-03-07T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,5ece2257-ed63-62da-eb9e-ebee096f9a88,118001005,Streptococcus pneumoniae group B antigen assay,962.05,72892002,Normal pregnancy
+2022-03-07T09:59:54Z,2022-03-07T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,5ece2257-ed63-62da-eb9e-ebee096f9a88,274804006,Evaluation of uterine fundal height,6122.82,72892002,Normal pregnancy
+2022-03-07T09:59:54Z,2022-03-07T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,5ece2257-ed63-62da-eb9e-ebee096f9a88,225158009,Auscultation of the fetal heart,3798.53,72892002,Normal pregnancy
+2022-03-21T09:59:54Z,2022-03-21T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,d84e9249-b0cc-9b13-3e17-c8505c0c2ba4,274804006,Evaluation of uterine fundal height,7834.52,72892002,Normal pregnancy
+2022-03-21T09:59:54Z,2022-03-21T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,d84e9249-b0cc-9b13-3e17-c8505c0c2ba4,225158009,Auscultation of the fetal heart,3597.60,72892002,Normal pregnancy
+2022-03-28T09:59:54Z,2022-03-28T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,828a8534-c5aa-cfdf-5cc4-4d0bb5f9522c,85548006,Episiotomy,5984.32,72892002,Normal pregnancy
+2022-03-28T09:59:54Z,2022-03-28T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,828a8534-c5aa-cfdf-5cc4-4d0bb5f9522c,66348005,Childbirth,431.40,72892002,Normal pregnancy
+2022-05-09T09:59:54Z,2022-05-09T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,c39884ef-0aa3-8576-9cf5-a3ef84f5fe22,51116004,Passive immunization (procedure),2842.29,,
+2022-05-09T09:59:54Z,2022-05-09T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,c39884ef-0aa3-8576-9cf5-a3ef84f5fe22,5880005,Physical examination procedure (procedure),431.40,,
+2022-05-09T09:59:54Z,2022-05-09T10:14:54Z,515991e2-40dd-22c1-c377-e0b71ad973b9,c39884ef-0aa3-8576-9cf5-a3ef84f5fe22,171207006,Depression screening,431.40,,
+2014-08-10T02:05:02Z,2014-08-10T02:18:38Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,a2388aab-5e56-e4c4-a74e-fd2cc3e1b50d,171207006,Depression screening (procedure),431.40,,
+2014-08-10T02:18:38Z,2014-08-10T02:45:17Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,a2388aab-5e56-e4c4-a74e-fd2cc3e1b50d,715252007,Depression screening using Patient Health Questionnaire Nine Item score (procedure),33.45,,
+2014-08-10T02:45:17Z,2014-08-10T02:59:45Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,a2388aab-5e56-e4c4-a74e-fd2cc3e1b50d,428211000124100,Assessment of substance use (procedure),431.40,,
+2014-08-10T02:59:45Z,2014-08-10T03:22:32Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,a2388aab-5e56-e4c4-a74e-fd2cc3e1b50d,868187001,Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure),431.40,,
+2014-08-10T03:22:32Z,2014-08-10T03:28:51Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,a2388aab-5e56-e4c4-a74e-fd2cc3e1b50d,386516004,Anticipatory guidance (procedure),431.40,,
+2014-12-21T02:05:02Z,2014-12-21T02:20:02Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,dd64aacc-4dbb-f47d-21f5-1543afe8dd40,430193006,Medication Reconciliation (procedure),418.45,,
+2014-12-21T02:05:02Z,2014-12-21T02:17:30Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,dd64aacc-4dbb-f47d-21f5-1543afe8dd40,171207006,Depression screening (procedure),431.40,,
+2014-12-21T02:17:30Z,2014-12-21T02:42:47Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,dd64aacc-4dbb-f47d-21f5-1543afe8dd40,715252007,Depression screening using Patient Health Questionnaire Nine Item score (procedure),31.78,,
+2015-07-04T02:05:02Z,2015-07-04T02:41:56Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,fe74efc4-b787-9b74-a88e-5dadba86ad74,169553002,Insertion of subcutaneous contraceptive,6214.54,,
+2015-08-16T02:05:02Z,2015-08-16T02:20:02Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,29f5cf56-33fa-5242-ead9-59bfcf0c68cc,430193006,Medication Reconciliation (procedure),819.00,,
+2015-08-16T02:05:02Z,2015-08-16T02:16:01Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,29f5cf56-33fa-5242-ead9-59bfcf0c68cc,171207006,Depression screening (procedure),431.40,,
+2015-08-16T02:16:01Z,2015-08-16T02:41:05Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,29f5cf56-33fa-5242-ead9-59bfcf0c68cc,715252007,Depression screening using Patient Health Questionnaire Nine Item score (procedure),30.27,,
+2015-08-16T02:41:05Z,2015-08-16T02:52:51Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,29f5cf56-33fa-5242-ead9-59bfcf0c68cc,428211000124100,Assessment of substance use (procedure),431.40,,
+2015-08-16T02:52:51Z,2015-08-16T03:20:36Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,29f5cf56-33fa-5242-ead9-59bfcf0c68cc,868187001,Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure),431.40,,
+2015-08-16T03:20:36Z,2015-08-16T03:30:46Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,29f5cf56-33fa-5242-ead9-59bfcf0c68cc,386516004,Anticipatory guidance (procedure),431.40,,
+2016-07-02T16:41:56Z,2016-07-02T17:41:53Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,6e0c04e5-a71d-db72-2ce1-6e377902d75d,65200003,Insertion of intrauterine contraceptive device,11969.01,,
+2016-08-21T02:05:02Z,2016-08-21T02:20:02Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,2c028432-625d-32e4-5e86-49fca1b33960,430193006,Medication Reconciliation (procedure),536.90,,
+2016-08-21T02:05:02Z,2016-08-21T02:15:27Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,2c028432-625d-32e4-5e86-49fca1b33960,171207006,Depression screening (procedure),431.40,,
+2016-08-21T02:15:27Z,2016-08-21T02:36:49Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,2c028432-625d-32e4-5e86-49fca1b33960,715252007,Depression screening using Patient Health Questionnaire Nine Item score (procedure),29.12,,
+2016-08-21T02:36:49Z,2016-08-21T02:49:12Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,2c028432-625d-32e4-5e86-49fca1b33960,428211000124100,Assessment of substance use (procedure),431.40,,
+2016-08-21T02:49:12Z,2016-08-21T03:18:00Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,2c028432-625d-32e4-5e86-49fca1b33960,868187001,Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure),431.40,,
+2016-08-21T03:18:00Z,2016-08-21T03:31:56Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,2c028432-625d-32e4-5e86-49fca1b33960,386516004,Anticipatory guidance (procedure),431.40,,
+2017-04-02T02:05:02Z,2017-04-02T02:11:18Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,ce9e2318-f1f9-63d6-d2de-8b5b74d9ad30,84100007,History taking (procedure),431.40,,
+2017-04-02T02:11:18Z,2017-04-02T02:18:18Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,ce9e2318-f1f9-63d6-d2de-8b5b74d9ad30,223470000,Discussion about signs and symptoms (procedure),431.40,,
+2017-04-02T02:18:18Z,2017-04-02T02:33:18Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,ce9e2318-f1f9-63d6-d2de-8b5b74d9ad30,67879005,History and physical examination  limited (procedure),431.40,,
+2017-04-02T02:33:18Z,2017-04-02T02:48:18Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,ce9e2318-f1f9-63d6-d2de-8b5b74d9ad30,386053000,Evaluation procedure (procedure),431.40,,
+2017-04-02T02:48:18Z,2017-04-02T02:58:18Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,ce9e2318-f1f9-63d6-d2de-8b5b74d9ad30,440546007,Discussion about pregnancy (procedure),431.40,,
+2017-04-02T02:58:18Z,2017-04-02T03:08:18Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,ce9e2318-f1f9-63d6-d2de-8b5b74d9ad30,57617002,Urine specimen collection (procedure),431.40,,
+2017-04-02T03:08:18Z,2017-04-02T03:18:18Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,ce9e2318-f1f9-63d6-d2de-8b5b74d9ad30,441550005,Urinalysis with reflex to microscopy and culture (procedure),431.40,,
+2017-04-02T03:18:18Z,2017-04-02T03:28:18Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,ce9e2318-f1f9-63d6-d2de-8b5b74d9ad30,281789004,Antibiotic therapy (procedure),431.40,,
+2017-08-19T22:18:21Z,2017-08-19T22:38:55Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,9d203d76-7755-6d04-16be-bb5544ff821c,23426006,Measurement of respiratory function (procedure),450.82,10509002,Acute bronchitis (disorder)
+2017-08-27T02:05:02Z,2017-08-27T02:20:02Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,62f66ddc-a9ac-eff7-b92d-8482a8946e17,430193006,Medication Reconciliation (procedure),516.81,,
+2017-08-27T02:05:02Z,2017-08-27T02:26:17Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,62f66ddc-a9ac-eff7-b92d-8482a8946e17,710841007,Assessment of anxiety (procedure),431.40,,
+2017-08-27T02:26:17Z,2017-08-27T02:38:17Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,62f66ddc-a9ac-eff7-b92d-8482a8946e17,171207006,Depression screening (procedure),431.40,,
+2017-08-27T02:38:17Z,2017-08-27T03:04:45Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,62f66ddc-a9ac-eff7-b92d-8482a8946e17,715252007,Depression screening using Patient Health Questionnaire Nine Item score (procedure),31.78,,
+2017-08-27T03:04:45Z,2017-08-27T03:18:56Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,62f66ddc-a9ac-eff7-b92d-8482a8946e17,428211000124100,Assessment of substance use (procedure),431.40,,
+2017-08-27T03:18:56Z,2017-08-27T03:47:26Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,62f66ddc-a9ac-eff7-b92d-8482a8946e17,868187001,Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure),431.40,,
+2017-08-27T03:47:26Z,2017-08-27T03:54:06Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,62f66ddc-a9ac-eff7-b92d-8482a8946e17,386516004,Anticipatory guidance (procedure),431.40,,
+2018-09-02T02:05:02Z,2018-09-02T02:20:02Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,66de59bf-9279-8e8b-3bbf-f508fbb172df,430193006,Medication Reconciliation (procedure),525.32,,
+2018-09-02T02:05:02Z,2018-09-02T02:38:01Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,66de59bf-9279-8e8b-3bbf-f508fbb172df,710824005,Assessment of health and social care needs (procedure),431.40,,
+2018-09-02T02:38:01Z,2018-09-02T02:59:24Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,66de59bf-9279-8e8b-3bbf-f508fbb172df,710841007,Assessment of anxiety (procedure),431.40,,
+2019-07-14T02:05:02Z,2019-07-14T02:33:53Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,ca9b363b-f21c-67d4-2c71-80f74f8778c4,301807007,Removal of subcutaneous contraceptive,5445.28,,
+2019-07-14T02:33:53Z,2019-07-14T03:11:40Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,ca9b363b-f21c-67d4-2c71-80f74f8778c4,169553002,Insertion of subcutaneous contraceptive,10758.62,,
+2019-09-08T02:05:02Z,2019-09-08T02:44:31Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,acff68df-423f-8fc5-bea7-46f5e08a1821,710824005,Assessment of health and social care needs (procedure),431.40,,
+2019-09-08T02:44:31Z,2019-09-08T03:09:47Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,acff68df-423f-8fc5-bea7-46f5e08a1821,866148006,Screening for domestic abuse (procedure),431.40,,
+2019-09-08T03:09:47Z,2019-09-08T03:20:56Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,acff68df-423f-8fc5-bea7-46f5e08a1821,171207006,Depression screening (procedure),431.40,,
+2019-09-08T03:20:56Z,2019-09-08T03:48:35Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,acff68df-423f-8fc5-bea7-46f5e08a1821,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2019-09-08T03:48:35Z,2019-09-08T03:59:59Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,acff68df-423f-8fc5-bea7-46f5e08a1821,428211000124100,Assessment of substance use (procedure),431.40,,
+2019-09-08T03:59:59Z,2019-09-08T04:20:03Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,acff68df-423f-8fc5-bea7-46f5e08a1821,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2020-04-11T03:43:02Z,2020-04-11T05:45:02Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,bac26a60-3492-15b9-5abd-3543c00f4f14,387685009,Surgical manipulation of shoulder joint,25058.15,307731004,Injury of tendon of the rotator cuff of shoulder
+2020-04-11T05:45:02Z,2020-04-14T05:45:02Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,bac26a60-3492-15b9-5abd-3543c00f4f14,133899007,Postoperative care (regime/therapy),431.40,307731004,Injury of tendon of the rotator cuff of shoulder
+2022-07-29T05:45:02Z,2022-07-29T06:04:10Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,533f69c4-0905-387b-c30b-03a4908b6d01,288086009,Suture open wound,9302.56,284551006,Laceration of foot
+2022-09-11T02:05:02Z,2022-09-11T02:52:49Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,53b047da-41d4-e4cf-5d03-ccf1bcb6bbae,710824005,Assessment of health and social care needs (procedure),431.40,,
+2022-09-11T02:52:49Z,2022-09-11T03:12:14Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,53b047da-41d4-e4cf-5d03-ccf1bcb6bbae,710841007,Assessment of anxiety (procedure),431.40,,
+2022-09-11T03:12:14Z,2022-09-11T03:22:51Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,53b047da-41d4-e4cf-5d03-ccf1bcb6bbae,171207006,Depression screening (procedure),431.40,,
+2022-09-11T03:22:51Z,2022-09-11T03:50:52Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,53b047da-41d4-e4cf-5d03-ccf1bcb6bbae,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2022-09-11T03:50:52Z,2022-09-11T04:05:40Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,53b047da-41d4-e4cf-5d03-ccf1bcb6bbae,428211000124100,Assessment of substance use (procedure),431.40,,
+2022-09-11T04:05:40Z,2022-09-11T04:32:41Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,53b047da-41d4-e4cf-5d03-ccf1bcb6bbae,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2023-05-27T17:41:53Z,2023-05-27T18:12:43Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,e769e371-9d7e-1278-4527-f30931521e16,169553002,Insertion of subcutaneous contraceptive,8533.81,,
+2023-07-16T02:05:02Z,2023-07-16T02:27:13Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,4c84916b-d22a-cd7f-65e8-4003fb6e33fb,301807007,Removal of subcutaneous contraceptive,8474.23,,
+2023-07-16T02:27:13Z,2023-07-16T02:53:56Z,6fc4436c-20cc-50f7-cabc-a19442b5837e,4c84916b-d22a-cd7f-65e8-4003fb6e33fb,169553002,Insertion of subcutaneous contraceptive,3985.51,,
+2015-04-10T00:00:22Z,2015-04-10T01:19:11Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,87313015-cec4-c9ff-530b-a1b07ec56f62,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2015-05-10T01:19:11Z,2015-05-10T02:22:51Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,2a528a37-ef9d-74c9-c06c-02f1e4229e6b,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2015-06-09T02:22:51Z,2015-06-09T03:42:22Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,8363c897-e05c-5013-6e46-e515ecd3cbc9,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2015-07-09T03:42:22Z,2015-07-09T04:53:48Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,05f6ba30-a5ac-8ccd-10fb-ceaf173e5b7e,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2015-08-08T04:53:48Z,2015-08-08T06:05:37Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,e15b68c6-6093-8f3b-7c7f-9db902d70ca3,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2015-09-07T06:05:37Z,2015-09-07T07:31:37Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,d8ae617b-1de9-66af-848d-ad309376b241,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2015-10-07T07:31:37Z,2015-10-07T08:49:33Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,113b079e-7f90-87f1-e0f6-26ef927eaa33,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2016-02-05T13:49:33Z,2016-02-05T15:19:15Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,99cb30ef-b4c8-45d6-0015-127dae91d1a9,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2016-03-06T15:19:15Z,2016-03-06T16:38:28Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,4595b5af-4a34-c033-a820-c8c3648f39eb,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2016-04-05T16:38:28Z,2016-04-05T18:03:21Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,f85e3952-cd2e-8ff2-5f69-2abd2f0751b4,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2016-05-05T18:03:21Z,2016-05-05T19:11:46Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,c78eecf4-6e54-f24e-69f5-b4010bb3a69a,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2017-03-27T18:55:10Z,2017-03-27T19:36:41Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,bd829c68-1251-3b00-8486-2838adb18da3,710824005,Assessment of health and social care needs (procedure),431.40,,
+2017-03-27T19:36:41Z,2017-03-27T19:49:35Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,bd829c68-1251-3b00-8486-2838adb18da3,171207006,Depression screening (procedure),431.40,,
+2017-03-27T19:49:35Z,2017-03-27T20:17:38Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,bd829c68-1251-3b00-8486-2838adb18da3,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2017-11-26T19:11:46Z,2017-11-26T20:24:16Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,ff210fae-340c-6394-8dd0-86799a7fe0fe,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2017-12-26T20:24:16Z,2017-12-26T21:29:04Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,a46fcb0d-19d8-7599-dce5-dc94a267950b,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2018-01-25T21:29:04Z,2018-01-25T22:54:18Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,9d67c314-aeb1-5c81-0e5f-4b45935a0ca7,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2018-02-24T22:54:18Z,2018-02-25T00:04:25Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,1e258754-4bab-08be-0be7-b14e0a90a214,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2018-03-27T00:04:25Z,2018-03-27T01:16:13Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,b97d672b-a44b-c031-eb7c-fe21ac328293,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2018-04-26T01:16:13Z,2018-04-26T02:20:12Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,8358f4f2-1b8d-a360-7350-69e7d1f83d72,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2018-05-26T02:20:12Z,2018-05-26T03:36:18Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,8c9cbc5b-a3ea-5333-adbc-4c377e67f109,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2020-02-02T03:36:18Z,2020-02-02T04:36:58Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,0ad47522-014f-10b3-6f2a-3fbab54f8368,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2020-03-03T04:36:58Z,2020-03-03T06:00:00Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,589d5b3f-8e21-359a-1197-0b9d08ab46ee,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2020-03-30T18:55:10Z,2020-03-30T19:39:06Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,72dab2ce-b7d8-9eb8-bc37-7f51f7ffa583,710824005,Assessment of health and social care needs (procedure),431.40,,
+2020-03-30T19:39:06Z,2020-03-30T20:01:59Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,72dab2ce-b7d8-9eb8-bc37-7f51f7ffa583,710841007,Assessment of anxiety (procedure),431.40,,
+2020-03-30T20:01:59Z,2020-03-30T20:16:00Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,72dab2ce-b7d8-9eb8-bc37-7f51f7ffa583,171207006,Depression screening (procedure),431.40,,
+2020-03-30T20:16:00Z,2020-03-30T20:37:19Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,72dab2ce-b7d8-9eb8-bc37-7f51f7ffa583,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2020-04-02T06:00:00Z,2020-04-02T07:06:53Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,a86177e4-c165-f63e-34f5-9abe49ca5683,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2020-05-02T07:06:53Z,2020-05-02T08:36:02Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,c090fb1b-c4f4-ff2c-e6be-8c495b3a340c,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2020-06-01T08:36:02Z,2020-06-01T09:57:44Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,b8dee4fe-07d5-9896-7369-e4471e354e4e,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2020-07-01T09:57:44Z,2020-07-01T11:04:20Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,4b2d8507-944b-2c6d-fdcb-31744da0f589,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2020-10-16T11:04:20Z,2020-10-16T12:13:14Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,15fcf3e0-cb0b-5845-805d-0ad4fa0db7ac,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2020-11-15T12:13:14Z,2020-11-15T13:27:19Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,b40a901b-e174-871b-fee1-957ffbd53f88,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2020-12-15T13:27:19Z,2020-12-15T14:55:05Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,90bbf729-429b-43b9-4f0f-f1d09e5e9061,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2021-01-14T14:55:05Z,2021-01-14T16:13:08Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,ede7daf8-75d9-5f0b-8c41-f5d8dd8b40bd,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2016-01-11T02:34:03Z,2016-01-11T03:12:58Z,4237be97-a13d-18b8-6e01-df3ee076675f,93b6836a-d03e-f827-222a-b65dfe704998,710824005,Assessment of health and social care needs (procedure),431.40,,
+2016-01-11T03:12:58Z,2016-01-11T03:29:11Z,4237be97-a13d-18b8-6e01-df3ee076675f,93b6836a-d03e-f827-222a-b65dfe704998,710841007,Assessment of anxiety (procedure),431.40,,
+2016-01-11T03:29:11Z,2016-01-11T03:41:30Z,4237be97-a13d-18b8-6e01-df3ee076675f,93b6836a-d03e-f827-222a-b65dfe704998,171207006,Depression screening (procedure),431.40,,
+2016-01-11T03:41:30Z,2016-01-11T04:03:22Z,4237be97-a13d-18b8-6e01-df3ee076675f,93b6836a-d03e-f827-222a-b65dfe704998,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2016-01-11T04:03:22Z,2016-01-11T04:29:45Z,4237be97-a13d-18b8-6e01-df3ee076675f,93b6836a-d03e-f827-222a-b65dfe704998,715252007,Depression screening using Patient Health Questionnaire Nine Item score (procedure),33.01,,
+2021-07-10T13:55:10Z,2021-07-10T14:05:37Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,4f68f942-3fad-f6c1-4568-61165122286b,23426006,Measurement of respiratory function (procedure),312.96,10509002,Acute bronchitis (disorder)
+2021-07-19T18:55:10Z,2021-07-19T19:39:52Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,13c5924c-978d-afcc-84be-91a4ee9c4402,710824005,Assessment of health and social care needs (procedure),431.40,,
+2021-07-19T19:39:52Z,2021-07-19T20:16:52Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,13c5924c-978d-afcc-84be-91a4ee9c4402,866148006,Screening for domestic abuse (procedure),431.40,,
+2022-09-27T00:13:08Z,2022-09-27T01:19:20Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,4f69a977-77de-5a91-213b-f67793d14c0e,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2018-01-15T02:34:03Z,2018-01-15T03:13:23Z,4237be97-a13d-18b8-6e01-df3ee076675f,3fae3759-ecbb-26fe-3b4d-855ee21c001d,710824005,Assessment of health and social care needs (procedure),431.40,,
+2018-01-15T03:13:23Z,2018-01-15T03:24:06Z,4237be97-a13d-18b8-6e01-df3ee076675f,3fae3759-ecbb-26fe-3b4d-855ee21c001d,171207006,Depression screening (procedure),431.40,,
+2018-01-15T03:24:06Z,2018-01-15T03:52:53Z,4237be97-a13d-18b8-6e01-df3ee076675f,3fae3759-ecbb-26fe-3b4d-855ee21c001d,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2023-04-03T18:55:10Z,2023-04-03T19:48:22Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,512601d9-f971-d012-1813-80a3990d778b,710824005,Assessment of health and social care needs (procedure),431.40,,
+2023-04-03T19:48:22Z,2023-04-03T20:03:33Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,512601d9-f971-d012-1813-80a3990d778b,710841007,Assessment of anxiety (procedure),431.40,,
+2023-04-03T20:03:33Z,2023-04-03T20:17:43Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,512601d9-f971-d012-1813-80a3990d778b,171207006,Depression screening (procedure),431.40,,
+2023-04-03T20:17:43Z,2023-04-03T20:42:51Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,512601d9-f971-d012-1813-80a3990d778b,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2020-01-20T02:34:03Z,2020-01-20T02:49:03Z,4237be97-a13d-18b8-6e01-df3ee076675f,453a4492-25e7-9935-7127-4037e4b82baf,430193006,Medication Reconciliation (procedure),449.79,,
+2020-01-20T02:34:03Z,2020-01-20T03:23:42Z,4237be97-a13d-18b8-6e01-df3ee076675f,453a4492-25e7-9935-7127-4037e4b82baf,710824005,Assessment of health and social care needs (procedure),431.40,,
+2020-01-20T03:23:42Z,2020-01-20T03:42:54Z,4237be97-a13d-18b8-6e01-df3ee076675f,453a4492-25e7-9935-7127-4037e4b82baf,710841007,Assessment of anxiety (procedure),431.40,,
+2020-01-20T03:42:54Z,2020-01-20T03:56:58Z,4237be97-a13d-18b8-6e01-df3ee076675f,453a4492-25e7-9935-7127-4037e4b82baf,171207006,Depression screening (procedure),431.40,,
+2020-01-20T03:56:58Z,2020-01-20T04:25:55Z,4237be97-a13d-18b8-6e01-df3ee076675f,453a4492-25e7-9935-7127-4037e4b82baf,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2023-08-21T18:55:10Z,2023-08-21T19:10:10Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,e5ff4f2b-00ab-c94d-efeb-fcd00e62362a,430193006,Medication Reconciliation (procedure),637.73,,
+2023-08-21T18:55:10Z,2023-08-21T19:45:17Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,e5ff4f2b-00ab-c94d-efeb-fcd00e62362a,710824005,Assessment of health and social care needs (procedure),431.40,,
+2023-08-21T19:45:17Z,2023-08-21T20:12:34Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,e5ff4f2b-00ab-c94d-efeb-fcd00e62362a,710841007,Assessment of anxiety (procedure),431.40,,
+2023-08-21T20:12:34Z,2023-08-21T20:49:27Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,e5ff4f2b-00ab-c94d-efeb-fcd00e62362a,866148006,Screening for domestic abuse (procedure),431.40,,
+2023-08-21T20:49:27Z,2023-08-21T21:00:20Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,e5ff4f2b-00ab-c94d-efeb-fcd00e62362a,171207006,Depression screening (procedure),431.40,,
+2023-08-21T21:00:20Z,2023-08-21T21:23:10Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,e5ff4f2b-00ab-c94d-efeb-fcd00e62362a,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2023-08-21T21:23:10Z,2023-08-21T21:44:04Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,e5ff4f2b-00ab-c94d-efeb-fcd00e62362a,715252007,Depression screening using Patient Health Questionnaire Nine Item score (procedure),31.03,,
+2023-08-28T18:55:10Z,2023-08-28T19:10:10Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,365a6623-d0c0-58ed-4baf-2c849f3daedb,117015009,Throat culture (procedure),2304.83,195662009,Acute viral pharyngitis (disorder)
+2023-10-27T11:19:20Z,2023-10-27T12:33:01Z,9808a1c3-5354-de5f-bfe5-7fdbd39bb426,a0a17b3e-81a6-d3dc-6690-24474c49a3db,52052004,Rehabilitation therapy (regime/therapy),431.40,6525002,Dependent drug abuse (disorder)
+2021-01-25T02:34:03Z,2021-01-25T02:49:03Z,4237be97-a13d-18b8-6e01-df3ee076675f,fdef892f-8bd1-59f1-96aa-39074d9f9862,430193006,Medication Reconciliation (procedure),643.61,,
+2021-01-25T02:34:03Z,2021-01-25T03:33:14Z,4237be97-a13d-18b8-6e01-df3ee076675f,fdef892f-8bd1-59f1-96aa-39074d9f9862,710824005,Assessment of health and social care needs (procedure),431.40,,
+2021-01-25T03:33:14Z,2021-01-25T03:49:05Z,4237be97-a13d-18b8-6e01-df3ee076675f,fdef892f-8bd1-59f1-96aa-39074d9f9862,710841007,Assessment of anxiety (procedure),431.40,,
+2021-01-25T03:49:05Z,2021-01-25T04:03:56Z,4237be97-a13d-18b8-6e01-df3ee076675f,fdef892f-8bd1-59f1-96aa-39074d9f9862,171207006,Depression screening (procedure),431.40,,
+2021-01-25T04:03:56Z,2021-01-25T04:29:31Z,4237be97-a13d-18b8-6e01-df3ee076675f,fdef892f-8bd1-59f1-96aa-39074d9f9862,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2021-01-25T04:29:31Z,2021-01-25T04:41:30Z,4237be97-a13d-18b8-6e01-df3ee076675f,fdef892f-8bd1-59f1-96aa-39074d9f9862,428211000124100,Assessment of substance use (procedure),431.40,,
+2021-01-25T04:41:30Z,2021-01-25T05:03:09Z,4237be97-a13d-18b8-6e01-df3ee076675f,fdef892f-8bd1-59f1-96aa-39074d9f9862,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2014-07-20T22:00:36Z,2014-07-20T22:31:03Z,7aa9e024-e01b-a999-b719-cdbc94a84250,5cc541b9-74d6-12fd-0644-2ca51b1228ec,710824005,Assessment of health and social care needs (procedure),431.40,,
+2014-07-20T22:31:03Z,2014-07-20T22:51:47Z,7aa9e024-e01b-a999-b719-cdbc94a84250,5cc541b9-74d6-12fd-0644-2ca51b1228ec,710841007,Assessment of anxiety (procedure),431.40,,
+2014-07-20T22:51:47Z,2014-07-20T23:17:55Z,7aa9e024-e01b-a999-b719-cdbc94a84250,5cc541b9-74d6-12fd-0644-2ca51b1228ec,866148006,Screening for domestic abuse (procedure),431.40,,
+2014-07-20T23:17:55Z,2014-07-20T23:28:19Z,7aa9e024-e01b-a999-b719-cdbc94a84250,5cc541b9-74d6-12fd-0644-2ca51b1228ec,171207006,Depression screening (procedure),431.40,,
+2014-07-20T23:28:19Z,2014-07-20T23:52:22Z,7aa9e024-e01b-a999-b719-cdbc94a84250,5cc541b9-74d6-12fd-0644-2ca51b1228ec,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2014-07-20T23:52:22Z,2014-07-21T00:02:38Z,7aa9e024-e01b-a999-b719-cdbc94a84250,5cc541b9-74d6-12fd-0644-2ca51b1228ec,428211000124100,Assessment of substance use (procedure),431.40,,
+2014-07-21T00:02:38Z,2014-07-21T00:28:56Z,7aa9e024-e01b-a999-b719-cdbc94a84250,5cc541b9-74d6-12fd-0644-2ca51b1228ec,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2015-07-26T22:00:36Z,2015-07-26T22:49:00Z,7aa9e024-e01b-a999-b719-cdbc94a84250,d3e69b14-64cd-619a-9261-2ef2ce75c823,710824005,Assessment of health and social care needs (procedure),431.40,,
+2015-07-26T22:49:00Z,2015-07-26T23:23:04Z,7aa9e024-e01b-a999-b719-cdbc94a84250,d3e69b14-64cd-619a-9261-2ef2ce75c823,866148006,Screening for domestic abuse (procedure),431.40,,
+2015-07-26T23:23:04Z,2015-07-26T23:33:29Z,7aa9e024-e01b-a999-b719-cdbc94a84250,d3e69b14-64cd-619a-9261-2ef2ce75c823,171207006,Depression screening (procedure),431.40,,
+2015-07-26T23:33:29Z,2015-07-26T23:56:42Z,7aa9e024-e01b-a999-b719-cdbc94a84250,d3e69b14-64cd-619a-9261-2ef2ce75c823,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2015-07-26T23:56:42Z,2015-07-27T00:07:50Z,7aa9e024-e01b-a999-b719-cdbc94a84250,d3e69b14-64cd-619a-9261-2ef2ce75c823,428211000124100,Assessment of substance use (procedure),431.40,,
+2015-07-27T00:07:50Z,2015-07-27T00:31:17Z,7aa9e024-e01b-a999-b719-cdbc94a84250,d3e69b14-64cd-619a-9261-2ef2ce75c823,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2022-01-31T02:34:03Z,2022-01-31T03:26:00Z,4237be97-a13d-18b8-6e01-df3ee076675f,aca83bdd-c78a-8789-7279-8f7bcc440147,710824005,Assessment of health and social care needs (procedure),431.40,,
+2022-01-31T03:26:00Z,2022-01-31T03:42:56Z,4237be97-a13d-18b8-6e01-df3ee076675f,aca83bdd-c78a-8789-7279-8f7bcc440147,710841007,Assessment of anxiety (procedure),431.40,,
+2022-01-31T03:42:56Z,2022-01-31T03:54:55Z,4237be97-a13d-18b8-6e01-df3ee076675f,aca83bdd-c78a-8789-7279-8f7bcc440147,171207006,Depression screening (procedure),431.40,,
+2022-01-31T03:54:55Z,2022-01-31T04:15:12Z,4237be97-a13d-18b8-6e01-df3ee076675f,aca83bdd-c78a-8789-7279-8f7bcc440147,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2022-01-31T04:15:12Z,2022-01-31T04:28:01Z,4237be97-a13d-18b8-6e01-df3ee076675f,aca83bdd-c78a-8789-7279-8f7bcc440147,428211000124100,Assessment of substance use (procedure),431.40,,
+2022-01-31T04:28:01Z,2022-01-31T04:55:58Z,4237be97-a13d-18b8-6e01-df3ee076675f,aca83bdd-c78a-8789-7279-8f7bcc440147,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2023-02-06T02:34:03Z,2023-02-06T02:49:03Z,4237be97-a13d-18b8-6e01-df3ee076675f,75430716-893c-b5bd-31da-97ddc5bdc3e6,430193006,Medication Reconciliation (procedure),328.85,,
+2023-02-06T02:34:03Z,2023-02-06T03:18:15Z,4237be97-a13d-18b8-6e01-df3ee076675f,75430716-893c-b5bd-31da-97ddc5bdc3e6,710824005,Assessment of health and social care needs (procedure),431.40,,
+2023-02-06T03:18:15Z,2023-02-06T03:55:36Z,4237be97-a13d-18b8-6e01-df3ee076675f,75430716-893c-b5bd-31da-97ddc5bdc3e6,866148006,Screening for domestic abuse (procedure),431.40,,
+2023-02-06T03:55:36Z,2023-02-06T04:07:49Z,4237be97-a13d-18b8-6e01-df3ee076675f,75430716-893c-b5bd-31da-97ddc5bdc3e6,171207006,Depression screening (procedure),431.40,,
+2023-02-06T04:07:49Z,2023-02-06T04:29:51Z,4237be97-a13d-18b8-6e01-df3ee076675f,75430716-893c-b5bd-31da-97ddc5bdc3e6,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2023-02-06T04:29:51Z,2023-02-06T04:42:54Z,4237be97-a13d-18b8-6e01-df3ee076675f,75430716-893c-b5bd-31da-97ddc5bdc3e6,428211000124100,Assessment of substance use (procedure),431.40,,
+2023-02-06T04:42:54Z,2023-02-06T05:06:19Z,4237be97-a13d-18b8-6e01-df3ee076675f,75430716-893c-b5bd-31da-97ddc5bdc3e6,713106006,Screening for drug abuse (procedure),431.40,,
+2024-01-01T02:34:03Z,2024-01-01T03:03:32Z,4237be97-a13d-18b8-6e01-df3ee076675f,7e3b6d58-2bae-99e0-ef1a-81e58a239a98,73761001,Colonoscopy,11399.03,,
+2024-02-12T02:34:03Z,2024-02-12T02:49:03Z,4237be97-a13d-18b8-6e01-df3ee076675f,556e6cfb-3cc8-cf58-e7f0-840aaf8ba562,430193006,Medication Reconciliation (procedure),510.81,,
+2024-02-12T02:34:03Z,2024-02-12T03:26:50Z,4237be97-a13d-18b8-6e01-df3ee076675f,556e6cfb-3cc8-cf58-e7f0-840aaf8ba562,710824005,Assessment of health and social care needs (procedure),431.40,,
+2024-02-12T03:26:50Z,2024-02-12T03:42:56Z,4237be97-a13d-18b8-6e01-df3ee076675f,556e6cfb-3cc8-cf58-e7f0-840aaf8ba562,710841007,Assessment of anxiety (procedure),431.40,,
+2024-02-12T03:42:56Z,2024-02-12T03:57:21Z,4237be97-a13d-18b8-6e01-df3ee076675f,556e6cfb-3cc8-cf58-e7f0-840aaf8ba562,171207006,Depression screening (procedure),431.40,,
+2024-02-12T03:57:21Z,2024-02-12T04:25:24Z,4237be97-a13d-18b8-6e01-df3ee076675f,556e6cfb-3cc8-cf58-e7f0-840aaf8ba562,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2024-02-12T04:25:24Z,2024-02-12T04:37:55Z,4237be97-a13d-18b8-6e01-df3ee076675f,556e6cfb-3cc8-cf58-e7f0-840aaf8ba562,428211000124100,Assessment of substance use (procedure),431.40,,
+2024-02-12T04:37:55Z,2024-02-12T05:03:27Z,4237be97-a13d-18b8-6e01-df3ee076675f,556e6cfb-3cc8-cf58-e7f0-840aaf8ba562,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2016-07-31T22:00:36Z,2016-07-31T22:51:09Z,7aa9e024-e01b-a999-b719-cdbc94a84250,2225272d-4201-b2ba-55ed-4223f5f34c28,710824005,Assessment of health and social care needs (procedure),431.40,,
+2016-07-31T22:51:09Z,2016-07-31T23:03:40Z,7aa9e024-e01b-a999-b719-cdbc94a84250,2225272d-4201-b2ba-55ed-4223f5f34c28,428211000124100,Assessment of substance use (procedure),431.40,,
+2016-07-31T23:03:40Z,2016-07-31T23:31:26Z,7aa9e024-e01b-a999-b719-cdbc94a84250,2225272d-4201-b2ba-55ed-4223f5f34c28,713106006,Screening for drug abuse (procedure),431.40,,
+2017-02-10T22:00:36Z,2017-02-10T22:15:36Z,7aa9e024-e01b-a999-b719-cdbc94a84250,34a8e894-08b7-5eff-c6e1-1517b723cac6,117015009,Throat culture (procedure),1639.71,195662009,Acute viral pharyngitis (disorder)
+2017-08-06T22:00:36Z,2017-08-06T22:52:29Z,7aa9e024-e01b-a999-b719-cdbc94a84250,82c8d3d5-3e37-d4f8-725b-6547318f0853,710824005,Assessment of health and social care needs (procedure),431.40,,
+2017-08-06T22:52:29Z,2017-08-06T23:08:54Z,7aa9e024-e01b-a999-b719-cdbc94a84250,82c8d3d5-3e37-d4f8-725b-6547318f0853,710841007,Assessment of anxiety (procedure),431.40,,
+2017-08-06T23:08:54Z,2017-08-06T23:37:04Z,7aa9e024-e01b-a999-b719-cdbc94a84250,82c8d3d5-3e37-d4f8-725b-6547318f0853,866148006,Screening for domestic abuse (procedure),431.40,,
+2017-08-06T23:37:04Z,2017-08-06T23:51:31Z,7aa9e024-e01b-a999-b719-cdbc94a84250,82c8d3d5-3e37-d4f8-725b-6547318f0853,171207006,Depression screening (procedure),431.40,,
+2017-08-06T23:51:31Z,2017-08-07T00:14:55Z,7aa9e024-e01b-a999-b719-cdbc94a84250,82c8d3d5-3e37-d4f8-725b-6547318f0853,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2017-08-07T00:14:55Z,2017-08-07T00:24:56Z,7aa9e024-e01b-a999-b719-cdbc94a84250,82c8d3d5-3e37-d4f8-725b-6547318f0853,428211000124100,Assessment of substance use (procedure),431.40,,
+2017-08-07T00:24:56Z,2017-08-07T00:50:08Z,7aa9e024-e01b-a999-b719-cdbc94a84250,82c8d3d5-3e37-d4f8-725b-6547318f0853,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2018-08-12T22:00:36Z,2018-08-12T22:15:36Z,7aa9e024-e01b-a999-b719-cdbc94a84250,1abd826a-e257-5d4e-cc92-f5456b2d6110,430193006,Medication Reconciliation (procedure),636.67,,
+2018-08-12T22:00:36Z,2018-08-12T22:35:53Z,7aa9e024-e01b-a999-b719-cdbc94a84250,1abd826a-e257-5d4e-cc92-f5456b2d6110,710824005,Assessment of health and social care needs (procedure),431.40,,
+2018-08-12T22:35:53Z,2018-08-12T22:47:48Z,7aa9e024-e01b-a999-b719-cdbc94a84250,1abd826a-e257-5d4e-cc92-f5456b2d6110,171207006,Depression screening (procedure),431.40,,
+2018-08-12T22:47:48Z,2018-08-12T23:07:50Z,7aa9e024-e01b-a999-b719-cdbc94a84250,1abd826a-e257-5d4e-cc92-f5456b2d6110,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2018-08-12T23:07:50Z,2018-08-12T23:22:23Z,7aa9e024-e01b-a999-b719-cdbc94a84250,1abd826a-e257-5d4e-cc92-f5456b2d6110,428211000124100,Assessment of substance use (procedure),431.40,,
+2018-08-12T23:22:23Z,2018-08-12T23:51:58Z,7aa9e024-e01b-a999-b719-cdbc94a84250,1abd826a-e257-5d4e-cc92-f5456b2d6110,713106006,Screening for drug abuse (procedure),431.40,,
+2019-08-18T22:00:36Z,2019-08-18T22:35:53Z,7aa9e024-e01b-a999-b719-cdbc94a84250,3a9f8e3d-ca2d-b8f9-665d-e9afff592f19,710824005,Assessment of health and social care needs (procedure),431.40,,
+2019-08-18T22:35:53Z,2019-08-18T22:53:51Z,7aa9e024-e01b-a999-b719-cdbc94a84250,3a9f8e3d-ca2d-b8f9-665d-e9afff592f19,710841007,Assessment of anxiety (procedure),431.40,,
+2019-08-18T22:53:51Z,2019-08-18T23:04:47Z,7aa9e024-e01b-a999-b719-cdbc94a84250,3a9f8e3d-ca2d-b8f9-665d-e9afff592f19,428211000124100,Assessment of substance use (procedure),431.40,,
+2019-08-18T23:04:47Z,2019-08-18T23:29:04Z,7aa9e024-e01b-a999-b719-cdbc94a84250,3a9f8e3d-ca2d-b8f9-665d-e9afff592f19,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2020-08-23T22:00:36Z,2020-08-23T22:32:29Z,7aa9e024-e01b-a999-b719-cdbc94a84250,6614e4d1-c891-3602-f64a-7f965c176d5e,710824005,Assessment of health and social care needs (procedure),431.40,,
+2020-08-23T22:32:29Z,2020-08-23T23:15:47Z,7aa9e024-e01b-a999-b719-cdbc94a84250,6614e4d1-c891-3602-f64a-7f965c176d5e,866148006,Screening for domestic abuse (procedure),431.40,,
+2020-08-23T23:15:47Z,2020-08-23T23:30:22Z,7aa9e024-e01b-a999-b719-cdbc94a84250,6614e4d1-c891-3602-f64a-7f965c176d5e,171207006,Depression screening (procedure),431.40,,
+2020-08-23T23:30:22Z,2020-08-23T23:54:19Z,7aa9e024-e01b-a999-b719-cdbc94a84250,6614e4d1-c891-3602-f64a-7f965c176d5e,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2021-08-29T22:00:36Z,2021-08-29T22:59:10Z,7aa9e024-e01b-a999-b719-cdbc94a84250,4ed0e6d6-1adc-024e-88d7-6df3f5ff0e39,710824005,Assessment of health and social care needs (procedure),431.40,,
+2021-08-29T22:59:10Z,2021-08-29T23:23:21Z,7aa9e024-e01b-a999-b719-cdbc94a84250,4ed0e6d6-1adc-024e-88d7-6df3f5ff0e39,710841007,Assessment of anxiety (procedure),431.40,,
+2021-08-29T23:23:21Z,2021-08-29T23:49:57Z,7aa9e024-e01b-a999-b719-cdbc94a84250,4ed0e6d6-1adc-024e-88d7-6df3f5ff0e39,866148006,Screening for domestic abuse (procedure),431.40,,
+2021-08-29T23:49:57Z,2021-08-30T00:02:57Z,7aa9e024-e01b-a999-b719-cdbc94a84250,4ed0e6d6-1adc-024e-88d7-6df3f5ff0e39,171207006,Depression screening (procedure),431.40,,
+2021-08-30T00:02:57Z,2021-08-30T00:26:47Z,7aa9e024-e01b-a999-b719-cdbc94a84250,4ed0e6d6-1adc-024e-88d7-6df3f5ff0e39,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2021-08-30T00:26:47Z,2021-08-30T00:38:16Z,7aa9e024-e01b-a999-b719-cdbc94a84250,4ed0e6d6-1adc-024e-88d7-6df3f5ff0e39,428211000124100,Assessment of substance use (procedure),431.40,,
+2021-08-30T00:38:16Z,2021-08-30T01:06:08Z,7aa9e024-e01b-a999-b719-cdbc94a84250,4ed0e6d6-1adc-024e-88d7-6df3f5ff0e39,713106006,Screening for drug abuse (procedure),431.40,,
+2022-09-04T22:00:36Z,2022-09-04T22:51:16Z,7aa9e024-e01b-a999-b719-cdbc94a84250,bd63951f-ca39-3469-8706-c1949564f66a,710824005,Assessment of health and social care needs (procedure),431.40,,
+2022-09-04T22:51:16Z,2022-09-04T23:04:29Z,7aa9e024-e01b-a999-b719-cdbc94a84250,bd63951f-ca39-3469-8706-c1949564f66a,428211000124100,Assessment of substance use (procedure),431.40,,
+2022-09-04T23:04:29Z,2022-09-04T23:34:28Z,7aa9e024-e01b-a999-b719-cdbc94a84250,bd63951f-ca39-3469-8706-c1949564f66a,713106006,Screening for drug abuse (procedure),431.40,,
+2022-09-11T22:00:36Z,2022-09-11T22:23:15Z,7aa9e024-e01b-a999-b719-cdbc94a84250,7af018f4-f2fb-a36a-e7d9-192ab22c667d,288086009,Suture open wound,8462.07,284551006,Laceration of foot
+2023-09-10T22:00:36Z,2023-09-10T23:00:31Z,7aa9e024-e01b-a999-b719-cdbc94a84250,15a77af5-9d86-cf6d-2a62-1c8ca4646d03,710824005,Assessment of health and social care needs (procedure),431.40,,
+2023-09-10T23:00:31Z,2023-09-10T23:20:15Z,7aa9e024-e01b-a999-b719-cdbc94a84250,15a77af5-9d86-cf6d-2a62-1c8ca4646d03,710841007,Assessment of anxiety (procedure),431.40,,
+2023-09-10T23:20:15Z,2023-09-10T23:33:06Z,7aa9e024-e01b-a999-b719-cdbc94a84250,15a77af5-9d86-cf6d-2a62-1c8ca4646d03,171207006,Depression screening (procedure),431.40,,
+2023-09-10T23:33:06Z,2023-09-11T00:01:55Z,7aa9e024-e01b-a999-b719-cdbc94a84250,15a77af5-9d86-cf6d-2a62-1c8ca4646d03,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2023-09-11T00:01:55Z,2023-09-11T00:14:04Z,7aa9e024-e01b-a999-b719-cdbc94a84250,15a77af5-9d86-cf6d-2a62-1c8ca4646d03,428211000124100,Assessment of substance use (procedure),431.40,,
+2023-09-11T00:14:04Z,2023-09-11T00:34:51Z,7aa9e024-e01b-a999-b719-cdbc94a84250,15a77af5-9d86-cf6d-2a62-1c8ca4646d03,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2015-02-20T11:49:30Z,2015-02-20T12:26:45Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,3b31af13-6131-1c8c-cb18-fd9205d9ad1a,710824005,Assessment of health and social care needs (procedure),431.40,,
+2015-02-20T12:26:45Z,2015-02-20T12:51:14Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,3b31af13-6131-1c8c-cb18-fd9205d9ad1a,710841007,Assessment of anxiety (procedure),431.40,,
+2015-02-20T12:51:14Z,2015-02-20T13:05:00Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,3b31af13-6131-1c8c-cb18-fd9205d9ad1a,428211000124100,Assessment of substance use (procedure),431.40,,
+2015-02-20T13:05:00Z,2015-02-20T13:26:13Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,3b31af13-6131-1c8c-cb18-fd9205d9ad1a,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2016-02-26T11:49:30Z,2016-02-26T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,ecccba05-f8e7-ed28-147b-39468b42b7e3,430193006,Medication Reconciliation (procedure),563.66,,
+2016-02-26T11:49:30Z,2016-02-26T12:43:50Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,ecccba05-f8e7-ed28-147b-39468b42b7e3,710824005,Assessment of health and social care needs (procedure),431.40,,
+2016-02-26T12:43:50Z,2016-02-26T13:03:23Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,ecccba05-f8e7-ed28-147b-39468b42b7e3,710841007,Assessment of anxiety (procedure),431.40,,
+2016-02-26T13:03:23Z,2016-02-26T13:17:49Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,ecccba05-f8e7-ed28-147b-39468b42b7e3,171207006,Depression screening (procedure),431.40,,
+2016-02-26T13:17:49Z,2016-02-26T13:44:59Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,ecccba05-f8e7-ed28-147b-39468b42b7e3,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2016-02-26T13:44:59Z,2016-02-26T13:55:40Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,ecccba05-f8e7-ed28-147b-39468b42b7e3,428211000124100,Assessment of substance use (procedure),431.40,,
+2016-02-26T13:55:40Z,2016-02-26T14:15:43Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,ecccba05-f8e7-ed28-147b-39468b42b7e3,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2016-07-19T15:49:30Z,2016-07-19T16:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,d514d885-d0a1-40bf-7e91-506f04742dca,117015009,Throat culture (procedure),1717.94,195662009,Acute viral pharyngitis (disorder)
+2016-11-13T13:11:31Z,2016-11-13T13:41:31Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,caf752d7-e17e-030f-73e0-7d6eea802a8a,168594001,Clavicle X-ray,431.40,,
+2016-11-13T13:11:31Z,2016-11-13T14:24:31Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,caf752d7-e17e-030f-73e0-7d6eea802a8a,305428000,Admission to orthopedic department,431.40,58150001,Fracture of clavicle
+2017-03-03T11:49:30Z,2017-03-03T12:27:05Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,b1695a5f-9eec-1df4-e462-7ec1aedd7a58,710824005,Assessment of health and social care needs (procedure),431.40,,
+2017-03-03T12:27:05Z,2017-03-03T12:48:13Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,b1695a5f-9eec-1df4-e462-7ec1aedd7a58,710841007,Assessment of anxiety (procedure),431.40,,
+2017-03-03T12:48:13Z,2017-03-03T13:02:19Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,b1695a5f-9eec-1df4-e462-7ec1aedd7a58,171207006,Depression screening (procedure),431.40,,
+2017-03-03T13:02:19Z,2017-03-03T13:27:08Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,b1695a5f-9eec-1df4-e462-7ec1aedd7a58,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2017-03-03T13:27:08Z,2017-03-03T13:38:51Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,b1695a5f-9eec-1df4-e462-7ec1aedd7a58,428211000124100,Assessment of substance use (procedure),431.40,,
+2017-03-03T13:38:51Z,2017-03-03T14:08:45Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,b1695a5f-9eec-1df4-e462-7ec1aedd7a58,713106006,Screening for drug abuse (procedure),431.40,,
+2018-03-09T11:49:30Z,2018-03-09T12:23:46Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,7a392039-0663-54be-6e2a-3ec966757c8f,710824005,Assessment of health and social care needs (procedure),431.40,,
+2018-03-09T12:23:46Z,2018-03-09T12:40:40Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,7a392039-0663-54be-6e2a-3ec966757c8f,710841007,Assessment of anxiety (procedure),431.40,,
+2018-03-09T12:40:40Z,2018-03-09T13:06:49Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,7a392039-0663-54be-6e2a-3ec966757c8f,866148006,Screening for domestic abuse (procedure),431.40,,
+2018-03-09T13:06:49Z,2018-03-09T13:20:26Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,7a392039-0663-54be-6e2a-3ec966757c8f,171207006,Depression screening (procedure),431.40,,
+2018-03-09T13:20:26Z,2018-03-09T13:45:33Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,7a392039-0663-54be-6e2a-3ec966757c8f,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2018-03-09T13:45:33Z,2018-03-09T13:56:09Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,7a392039-0663-54be-6e2a-3ec966757c8f,428211000124100,Assessment of substance use (procedure),431.40,,
+2018-03-09T13:56:09Z,2018-03-09T14:17:04Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,7a392039-0663-54be-6e2a-3ec966757c8f,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2018-11-23T11:49:30Z,2018-11-23T12:37:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,52dcdfe5-e6c1-8164-da7e-eeb26f6c3d43,46706006,Replacement of contraceptive intrauterine device,8903.23,,
+2018-11-30T11:49:30Z,2018-11-30T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,63332003,History AND physical examination (procedure),431.40,,
+2018-11-30T11:49:30Z,2018-11-30T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,315639002,Initial patient assessment (procedure),431.40,,
+2018-11-30T11:49:30Z,2018-11-30T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,370789001,Development of individualized plan of care (procedure),431.40,,
+2018-11-30T11:49:30Z,2018-11-30T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-01T11:49:30Z,2018-12-01T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-02T11:49:30Z,2018-12-02T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-02T11:49:30Z,2018-12-02T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,409023009,Professional / ancillary services care (regime/therapy),431.40,,
+2018-12-03T11:49:30Z,2018-12-03T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-03T11:49:30Z,2018-12-03T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,409023009,Professional / ancillary services care (regime/therapy),431.40,,
+2018-12-04T11:49:30Z,2018-12-04T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-05T11:49:30Z,2018-12-05T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-06T11:49:30Z,2018-12-06T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-06T11:49:30Z,2018-12-06T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,84478008,Occupational therapy (regime/therapy),431.40,,
+2018-12-07T11:49:30Z,2018-12-07T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-08T11:49:30Z,2018-12-08T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-09T11:49:30Z,2018-12-09T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-10T11:49:30Z,2018-12-10T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-11T11:49:30Z,2018-12-11T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-12T11:49:30Z,2018-12-12T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-12T11:49:30Z,2018-12-12T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,409023009,Professional / ancillary services care (regime/therapy),431.40,,
+2018-12-13T11:49:30Z,2018-12-13T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-14T11:49:30Z,2018-12-14T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-15T11:49:30Z,2018-12-15T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-16T11:49:30Z,2018-12-16T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-17T11:49:30Z,2018-12-17T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-18T11:49:30Z,2018-12-18T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-18T11:49:30Z,2018-12-18T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,91251008,Physical therapy procedure (regime/therapy),587.50,,
+2018-12-19T11:49:30Z,2018-12-19T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-19T11:49:30Z,2018-12-19T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,84478008,Occupational therapy (regime/therapy),431.40,,
+2018-12-20T11:49:30Z,2018-12-20T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-20T11:49:30Z,2018-12-20T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,84478008,Occupational therapy (regime/therapy),431.40,,
+2018-12-20T11:49:30Z,2018-12-20T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,409023009,Professional / ancillary services care (regime/therapy),431.40,,
+2018-12-21T11:49:30Z,2018-12-21T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-22T11:49:30Z,2018-12-22T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-23T11:49:30Z,2018-12-23T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-24T11:49:30Z,2018-12-24T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-25T11:49:30Z,2018-12-25T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-26T11:49:30Z,2018-12-26T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-26T11:49:30Z,2018-12-26T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,84478008,Occupational therapy (regime/therapy),431.40,,
+2018-12-27T11:49:30Z,2018-12-27T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-28T11:49:30Z,2018-12-28T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-29T11:49:30Z,2018-12-29T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-30T11:49:30Z,2018-12-30T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-31T11:49:30Z,2018-12-31T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2018-12-31T11:49:30Z,2018-12-31T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,91251008,Physical therapy procedure (regime/therapy),352.61,,
+2019-01-01T11:49:30Z,2019-01-01T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2019-01-02T11:49:30Z,2019-01-02T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2019-01-03T11:49:30Z,2019-01-03T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2019-01-04T11:49:30Z,2019-01-04T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2019-01-04T11:49:30Z,2019-01-04T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,409023009,Professional / ancillary services care (regime/therapy),431.40,,
+2019-01-05T11:49:30Z,2019-01-05T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,410401003,Nursing care/supplementary surveillance (regime/therapy),431.40,,
+2019-01-06T11:49:30Z,2019-01-06T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,225386006,Pre-discharge assessment (procedure),431.40,,
+2019-01-06T11:49:30Z,2019-01-06T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,8d0f53e8-7679-77d9-ede2-3dc54e5a5c59,449381000124108,Discharge from skilled nursing facility (procedure),431.40,,
+2019-03-15T11:49:30Z,2019-03-15T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,888661fe-cfbd-af4b-00a3-8d58db668516,430193006,Medication Reconciliation (procedure),435.33,,
+2019-03-15T11:49:30Z,2019-03-15T12:22:49Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,888661fe-cfbd-af4b-00a3-8d58db668516,710824005,Assessment of health and social care needs (procedure),431.40,,
+2019-03-15T12:22:49Z,2019-03-15T12:33:35Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,888661fe-cfbd-af4b-00a3-8d58db668516,171207006,Depression screening (procedure),431.40,,
+2019-03-15T12:33:35Z,2019-03-15T13:03:13Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,888661fe-cfbd-af4b-00a3-8d58db668516,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2019-03-15T13:03:13Z,2019-03-15T13:14:43Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,888661fe-cfbd-af4b-00a3-8d58db668516,428211000124100,Assessment of substance use (procedure),431.40,,
+2019-03-15T13:14:43Z,2019-03-15T13:42:22Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,888661fe-cfbd-af4b-00a3-8d58db668516,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2019-10-17T11:35:41Z,2019-10-17T11:46:25Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,ec5bd7af-7de1-4a7d-101f-381f8c28ced9,76601001,Intramuscular injection,2148.58,,
+2020-03-20T11:49:30Z,2020-03-20T12:04:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,6987e955-fa57-ec97-3cfc-10860d48df85,430193006,Medication Reconciliation (procedure),613.94,,
+2020-03-20T11:49:30Z,2020-03-20T12:21:23Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,6987e955-fa57-ec97-3cfc-10860d48df85,710824005,Assessment of health and social care needs (procedure),431.40,,
+2020-03-20T12:21:23Z,2020-03-20T12:46:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,6987e955-fa57-ec97-3cfc-10860d48df85,710841007,Assessment of anxiety (procedure),431.40,,
+2020-03-20T12:46:30Z,2020-03-20T13:01:12Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,6987e955-fa57-ec97-3cfc-10860d48df85,171207006,Depression screening (procedure),431.40,,
+2020-03-20T13:01:12Z,2020-03-20T13:30:47Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,6987e955-fa57-ec97-3cfc-10860d48df85,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2020-03-20T13:30:47Z,2020-03-20T13:43:51Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,6987e955-fa57-ec97-3cfc-10860d48df85,428211000124100,Assessment of substance use (procedure),431.40,,
+2020-03-20T13:43:51Z,2020-03-20T14:09:58Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,6987e955-fa57-ec97-3cfc-10860d48df85,713106006,Screening for drug abuse (procedure),431.40,,
+2021-03-26T11:49:30Z,2021-03-26T12:47:56Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,c66b30ed-90ec-4380-5f1b-e230b47b2d0d,710824005,Assessment of health and social care needs (procedure),431.40,,
+2021-03-26T12:47:56Z,2021-03-26T13:12:24Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,c66b30ed-90ec-4380-5f1b-e230b47b2d0d,710841007,Assessment of anxiety (procedure),431.40,,
+2021-03-26T13:12:24Z,2021-03-26T13:23:00Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,c66b30ed-90ec-4380-5f1b-e230b47b2d0d,171207006,Depression screening (procedure),431.40,,
+2021-03-26T13:23:00Z,2021-03-26T13:43:02Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,c66b30ed-90ec-4380-5f1b-e230b47b2d0d,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2022-04-01T11:49:30Z,2022-04-01T12:33:00Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,36ce3d10-dff0-2b93-a0a7-a26348629b6e,710824005,Assessment of health and social care needs (procedure),431.40,,
+2022-04-01T12:33:00Z,2022-04-01T12:53:10Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,36ce3d10-dff0-2b93-a0a7-a26348629b6e,710841007,Assessment of anxiety (procedure),431.40,,
+2022-04-01T12:53:10Z,2022-04-01T13:36:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,36ce3d10-dff0-2b93-a0a7-a26348629b6e,866148006,Screening for domestic abuse (procedure),431.40,,
+2022-04-01T13:36:30Z,2022-04-01T13:51:21Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,36ce3d10-dff0-2b93-a0a7-a26348629b6e,171207006,Depression screening (procedure),431.40,,
+2022-04-01T13:51:21Z,2022-04-01T14:14:53Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,36ce3d10-dff0-2b93-a0a7-a26348629b6e,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2022-04-01T14:14:53Z,2022-04-01T14:27:31Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,36ce3d10-dff0-2b93-a0a7-a26348629b6e,428211000124100,Assessment of substance use (procedure),431.40,,
+2022-04-01T14:27:31Z,2022-04-01T14:51:13Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,36ce3d10-dff0-2b93-a0a7-a26348629b6e,713106006,Screening for drug abuse (procedure),431.40,,
+2023-04-07T11:49:30Z,2023-04-07T12:45:51Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,d00cc11e-7e90-3a32-8500-49f0c3004a09,710824005,Assessment of health and social care needs (procedure),431.40,,
+2023-04-07T12:45:51Z,2023-04-07T12:57:44Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,d00cc11e-7e90-3a32-8500-49f0c3004a09,171207006,Depression screening (procedure),431.40,,
+2023-04-07T12:57:44Z,2023-04-07T13:17:54Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,d00cc11e-7e90-3a32-8500-49f0c3004a09,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2023-11-24T11:49:30Z,2023-11-24T12:38:02Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,ca19bb7c-f0a6-dcb7-77b4-4983aceb502a,46706006,Replacement of contraceptive intrauterine device,6523.48,,
+2024-04-12T11:49:30Z,2024-04-12T12:19:30Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,14ed361b-cf10-9f56-1686-e84c8a9fa25f,710824005,Assessment of health and social care needs (procedure),431.40,,
+2024-04-12T12:19:30Z,2024-04-12T12:46:03Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,14ed361b-cf10-9f56-1686-e84c8a9fa25f,710841007,Assessment of anxiety (procedure),431.40,,
+2024-04-12T12:46:03Z,2024-04-12T13:28:03Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,14ed361b-cf10-9f56-1686-e84c8a9fa25f,866148006,Screening for domestic abuse (procedure),431.40,,
+2024-04-12T13:28:03Z,2024-04-12T13:40:03Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,14ed361b-cf10-9f56-1686-e84c8a9fa25f,171207006,Depression screening (procedure),431.40,,
+2024-04-12T13:40:03Z,2024-04-12T14:00:19Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,14ed361b-cf10-9f56-1686-e84c8a9fa25f,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2024-04-12T14:00:19Z,2024-04-12T14:11:29Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,14ed361b-cf10-9f56-1686-e84c8a9fa25f,428211000124100,Assessment of substance use (procedure),431.40,,
+2024-04-12T14:11:29Z,2024-04-12T14:34:52Z,49abcfcc-8abb-9781-d49e-cab0cd9f5c40,14ed361b-cf10-9f56-1686-e84c8a9fa25f,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2014-05-06T16:54:56Z,2014-05-06T17:09:56Z,edcd074e-b20a-2826-ff28-4677579314b1,f3f28f3a-ecdd-a889-27b0-6acbc9b21e3d,104091002,Hemogram  automated  with RBC  WBC  Hgb  Hct  Indices  Platelet count  and manual WBC differential,2212.79,72892002,Normal pregnancy
+2014-05-06T16:54:56Z,2014-05-06T17:09:56Z,edcd074e-b20a-2826-ff28-4677579314b1,f3f28f3a-ecdd-a889-27b0-6acbc9b21e3d,399014008,Administration of diphtheria  pertussis  and tetanus vaccine,2249.40,72892002,Normal pregnancy
+2014-05-06T16:54:56Z,2014-05-06T17:09:56Z,edcd074e-b20a-2826-ff28-4677579314b1,f3f28f3a-ecdd-a889-27b0-6acbc9b21e3d,268556000,Urine screening for glucose,1251.79,72892002,Normal pregnancy
+2014-05-06T16:54:56Z,2014-05-06T17:09:56Z,edcd074e-b20a-2826-ff28-4677579314b1,f3f28f3a-ecdd-a889-27b0-6acbc9b21e3d,274804006,Evaluation of uterine fundal height,3683.43,72892002,Normal pregnancy
+2014-05-06T16:54:56Z,2014-05-06T17:09:56Z,edcd074e-b20a-2826-ff28-4677579314b1,f3f28f3a-ecdd-a889-27b0-6acbc9b21e3d,225158009,Auscultation of the fetal heart,2809.72,72892002,Normal pregnancy
+2014-06-03T16:54:56Z,2014-06-03T17:09:56Z,edcd074e-b20a-2826-ff28-4677579314b1,3631581a-9851-be9a-e881-c3b8ff7b7550,274804006,Evaluation of uterine fundal height,6206.99,72892002,Normal pregnancy
+2014-06-03T16:54:56Z,2014-06-03T17:09:56Z,edcd074e-b20a-2826-ff28-4677579314b1,3631581a-9851-be9a-e881-c3b8ff7b7550,225158009,Auscultation of the fetal heart,4970.34,72892002,Normal pregnancy
+2014-07-01T16:54:56Z,2014-07-01T17:09:56Z,edcd074e-b20a-2826-ff28-4677579314b1,b47e87ff-2fa3-61b9-f1e1-5b5991a55ee7,118001005,Streptococcus pneumoniae group B antigen assay,1368.76,72892002,Normal pregnancy
+2014-07-01T16:54:56Z,2014-07-01T17:09:56Z,edcd074e-b20a-2826-ff28-4677579314b1,b47e87ff-2fa3-61b9-f1e1-5b5991a55ee7,274804006,Evaluation of uterine fundal height,7906.28,72892002,Normal pregnancy
+2014-07-01T16:54:56Z,2014-07-01T17:09:56Z,edcd074e-b20a-2826-ff28-4677579314b1,b47e87ff-2fa3-61b9-f1e1-5b5991a55ee7,225158009,Auscultation of the fetal heart,4257.72,72892002,Normal pregnancy
+2014-07-15T16:54:56Z,2014-07-15T17:09:56Z,edcd074e-b20a-2826-ff28-4677579314b1,4eee9174-2458-5542-614b-b1e1b44e3920,274804006,Evaluation of uterine fundal height,3678.70,72892002,Normal pregnancy
+2014-07-15T16:54:56Z,2014-07-15T17:09:56Z,edcd074e-b20a-2826-ff28-4677579314b1,4eee9174-2458-5542-614b-b1e1b44e3920,225158009,Auscultation of the fetal heart,4729.75,72892002,Normal pregnancy
+2014-07-22T16:54:56Z,2014-07-22T17:09:56Z,edcd074e-b20a-2826-ff28-4677579314b1,2e7c90f2-1e3c-bc42-9107-8adb4c47414c,274804006,Evaluation of uterine fundal height,5859.76,72892002,Normal pregnancy
+2014-07-22T16:54:56Z,2014-07-22T17:09:56Z,edcd074e-b20a-2826-ff28-4677579314b1,2e7c90f2-1e3c-bc42-9107-8adb4c47414c,225158009,Auscultation of the fetal heart,6806.18,72892002,Normal pregnancy
+2014-07-29T16:54:56Z,2014-07-29T17:09:56Z,edcd074e-b20a-2826-ff28-4677579314b1,ddb7ffaf-58ab-aea1-ed67-443d1ab21f67,31208007,Medical induction of labor,2670.54,72892002,Normal pregnancy
+2014-07-29T16:54:56Z,2014-07-29T17:09:56Z,edcd074e-b20a-2826-ff28-4677579314b1,ddb7ffaf-58ab-aea1-ed67-443d1ab21f67,66348005,Childbirth,431.40,72892002,Normal pregnancy
+2014-09-09T16:54:56Z,2014-09-09T17:09:56Z,edcd074e-b20a-2826-ff28-4677579314b1,924b7af2-6151-3dbb-1883-f62a1b40b7a8,5880005,Physical examination procedure (procedure),431.40,,
+2014-09-09T16:54:56Z,2014-09-09T17:09:56Z,edcd074e-b20a-2826-ff28-4677579314b1,924b7af2-6151-3dbb-1883-f62a1b40b7a8,171207006,Depression screening,431.40,,
+2015-02-25T16:54:56Z,2015-02-25T17:24:56Z,edcd074e-b20a-2826-ff28-4677579314b1,85e0c521-49e8-ec60-2bed-8b41f9e72b2b,168594001,Clavicle X-ray,431.40,,
+2015-02-25T16:54:56Z,2015-02-25T17:57:56Z,edcd074e-b20a-2826-ff28-4677579314b1,85e0c521-49e8-ec60-2bed-8b41f9e72b2b,305428000,Admission to orthopedic department,431.40,58150001,Fracture of clavicle
+2015-09-11T16:54:56Z,2015-09-11T17:15:27Z,edcd074e-b20a-2826-ff28-4677579314b1,b997a23f-7bb6-37dd-5fef-b8c7158c6ba8,169553002,Insertion of subcutaneous contraceptive,8258.36,,
+2016-12-06T16:54:56Z,2016-12-06T17:48:40Z,edcd074e-b20a-2826-ff28-4677579314b1,79d21c19-50c8-ca98-22e2-d57f49347ea0,710824005,Assessment of health and social care needs (procedure),431.40,,
+2016-12-06T17:48:40Z,2016-12-06T18:14:52Z,edcd074e-b20a-2826-ff28-4677579314b1,79d21c19-50c8-ca98-22e2-d57f49347ea0,710841007,Assessment of anxiety (procedure),431.40,,
+2016-12-06T18:14:52Z,2016-12-06T18:27:57Z,edcd074e-b20a-2826-ff28-4677579314b1,79d21c19-50c8-ca98-22e2-d57f49347ea0,171207006,Depression screening (procedure),431.40,,
+2016-12-06T18:27:57Z,2016-12-06T18:55:59Z,edcd074e-b20a-2826-ff28-4677579314b1,79d21c19-50c8-ca98-22e2-d57f49347ea0,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2016-12-06T18:55:59Z,2016-12-06T19:06:46Z,edcd074e-b20a-2826-ff28-4677579314b1,79d21c19-50c8-ca98-22e2-d57f49347ea0,428211000124100,Assessment of substance use (procedure),431.40,,
+2016-12-06T19:06:46Z,2016-12-06T19:28:22Z,edcd074e-b20a-2826-ff28-4677579314b1,79d21c19-50c8-ca98-22e2-d57f49347ea0,713106006,Screening for drug abuse (procedure),431.40,,
+2017-08-31T17:15:27Z,2017-08-31T17:31:51Z,edcd074e-b20a-2826-ff28-4677579314b1,242f0ffd-6547-6894-e8e7-97122b708b22,76601001,Intramuscular injection,1509.63,,
+2018-08-26T17:31:51Z,2018-08-26T18:21:26Z,edcd074e-b20a-2826-ff28-4677579314b1,fd99c08f-cfe3-d62b-71ee-017f2725e9d4,268533009,Sterilization education (procedure),431.40,,
+2018-09-10T18:21:26Z,2018-09-10T20:22:26Z,edcd074e-b20a-2826-ff28-4677579314b1,046f4a10-7467-ff3a-4062-1391f2433593,287664005,Bilateral tubal ligation,9240.98,183996000,Sterilization requested (situation)
+2018-09-10T20:22:26Z,2018-09-11T06:16:26Z,edcd074e-b20a-2826-ff28-4677579314b1,046f4a10-7467-ff3a-4062-1391f2433593,133899007,Postoperative care (regime/therapy),431.40,267020005,History of tubal ligation (situation)
+2019-09-24T16:54:56Z,2019-09-24T17:17:48Z,edcd074e-b20a-2826-ff28-4677579314b1,09b9beb3-678a-c75a-ecf7-7fb1a2561f3a,301807007,Removal of subcutaneous contraceptive,6464.45,,
+2019-09-24T17:17:48Z,2019-09-24T17:48:04Z,edcd074e-b20a-2826-ff28-4677579314b1,09b9beb3-678a-c75a-ecf7-7fb1a2561f3a,169553002,Insertion of subcutaneous contraceptive,9740.35,,
+2019-12-10T16:54:56Z,2019-12-10T17:35:29Z,edcd074e-b20a-2826-ff28-4677579314b1,7b41b1c3-e65c-0209-2c42-a7d6866f939d,710824005,Assessment of health and social care needs (procedure),431.40,,
+2019-12-10T17:35:29Z,2019-12-10T17:51:15Z,edcd074e-b20a-2826-ff28-4677579314b1,7b41b1c3-e65c-0209-2c42-a7d6866f939d,710841007,Assessment of anxiety (procedure),431.40,,
+2019-12-10T17:51:15Z,2019-12-10T18:23:19Z,edcd074e-b20a-2826-ff28-4677579314b1,7b41b1c3-e65c-0209-2c42-a7d6866f939d,866148006,Screening for domestic abuse (procedure),431.40,,
+2019-12-10T18:23:19Z,2019-12-10T18:37:35Z,edcd074e-b20a-2826-ff28-4677579314b1,7b41b1c3-e65c-0209-2c42-a7d6866f939d,428211000124100,Assessment of substance use (procedure),431.40,,
+2019-12-10T18:37:35Z,2019-12-10T19:05:41Z,edcd074e-b20a-2826-ff28-4677579314b1,7b41b1c3-e65c-0209-2c42-a7d6866f939d,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2021-03-21T16:54:56Z,2021-03-21T17:05:27Z,edcd074e-b20a-2826-ff28-4677579314b1,3e29b705-d964-ced8-32ff-21962effdabd,261352009,Face mask (physical object),0.88,840544004,Suspected COVID-19
+2022-09-20T16:54:56Z,2022-09-20T17:31:54Z,edcd074e-b20a-2826-ff28-4677579314b1,e50d088f-82b8-72ab-61ec-9d34a0e8d2c1,710824005,Assessment of health and social care needs (procedure),431.40,,
+2022-09-20T17:31:54Z,2022-09-20T18:01:34Z,edcd074e-b20a-2826-ff28-4677579314b1,e50d088f-82b8-72ab-61ec-9d34a0e8d2c1,710841007,Assessment of anxiety (procedure),431.40,,
+2022-09-20T18:01:34Z,2022-09-20T18:14:51Z,edcd074e-b20a-2826-ff28-4677579314b1,e50d088f-82b8-72ab-61ec-9d34a0e8d2c1,171207006,Depression screening (procedure),431.40,,
+2022-09-20T18:14:51Z,2022-09-20T18:40:02Z,edcd074e-b20a-2826-ff28-4677579314b1,e50d088f-82b8-72ab-61ec-9d34a0e8d2c1,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2022-09-20T18:40:02Z,2022-09-20T18:50:38Z,edcd074e-b20a-2826-ff28-4677579314b1,e50d088f-82b8-72ab-61ec-9d34a0e8d2c1,428211000124100,Assessment of substance use (procedure),431.40,,
+2022-09-20T18:50:38Z,2022-09-20T19:18:40Z,edcd074e-b20a-2826-ff28-4677579314b1,e50d088f-82b8-72ab-61ec-9d34a0e8d2c1,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2023-09-26T16:54:56Z,2023-09-26T17:17:55Z,edcd074e-b20a-2826-ff28-4677579314b1,f4bab8ab-01be-058a-eaa5-caada2904445,301807007,Removal of subcutaneous contraceptive,5373.03,,
+2023-09-26T17:17:55Z,2023-09-26T17:48:09Z,edcd074e-b20a-2826-ff28-4677579314b1,f4bab8ab-01be-058a-eaa5-caada2904445,169553002,Insertion of subcutaneous contraceptive,13990.42,,
+2012-10-06T18:14:25Z,2012-10-06T19:09:31Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,63332003,History AND physical examination (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2012-10-06T19:09:31Z,2012-10-06T19:22:16Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,15220000,Laboratory test (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2012-10-06T19:22:16Z,2012-10-06T19:50:37Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,412809002,Viral hepatitis screening test (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2012-10-06T19:50:37Z,2012-10-06T20:16:21Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,171122006,Hepatitis B screening (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2012-10-06T20:16:21Z,2012-10-06T20:45:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,413107006,Hepatitis C screening (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2012-10-06T20:45:25Z,2012-10-06T21:07:34Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,313613002,Hepatitis A antibody test (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2012-10-06T21:07:34Z,2012-10-06T21:34:36Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,171126009,Tuberculosis screening (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2012-10-06T21:34:36Z,2012-10-06T21:53:03Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,171128005,Venereal disease screening (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2012-10-06T21:53:03Z,2012-10-06T22:21:57Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,104308009,Serologic test for Toxoplasma gondii (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2012-10-06T22:21:57Z,2012-10-06T23:11:34Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2012-10-06T23:11:34Z,2012-10-07T00:09:42Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,446987006,Determination of susceptibility of Human immunodeficiency virus 1 to panel of antiretroviral drugs using genotypic technique (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2012-10-07T00:09:42Z,2012-10-07T01:04:24Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,313660005,Absolute CD4 count procedure (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2012-10-07T01:04:24Z,2012-10-07T01:36:01Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,710824005,Assessment of health and social care needs (procedure),431.40,,
+2012-10-07T01:36:01Z,2012-10-07T01:49:40Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,171207006,Depression screening (procedure),431.40,,
+2012-10-07T01:49:40Z,2012-10-07T02:18:14Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2012-10-07T02:18:14Z,2012-10-07T02:38:05Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,710841007,Assessment of anxiety (procedure),431.40,,
+2012-10-07T02:38:05Z,2012-10-07T02:48:15Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,428211000124100,Assessment of substance use (procedure),431.40,,
+2012-10-07T02:48:15Z,2012-10-07T03:18:10Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2012-10-07T03:18:10Z,2012-10-07T03:30:02Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,711018006,Assessment of social support (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2012-10-07T03:30:02Z,2012-10-07T03:57:19Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,709506004,Assessment of readiness for disclosure of health status (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2012-10-07T03:57:19Z,2012-10-07T04:18:32Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,733863009,Assessment of readiness for self-management (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2012-10-07T04:18:32Z,2012-10-07T05:11:45Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,409066002,Education  guidance and counseling (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2012-10-07T05:11:45Z,2012-10-07T05:58:30Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,225297008,Care planning and problem solving actions (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2012-10-07T05:58:30Z,2012-10-07T06:52:06Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0b4ac333-7277-08ec-ead2-64fe44843a60,711069006,Coordination of care plan (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2012-11-12T06:52:06Z,2012-11-12T07:09:39Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,b79318df-9757-5468-0639-09c7e4fe734c,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2012-11-12T07:09:39Z,2012-11-12T07:51:03Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,b79318df-9757-5468-0639-09c7e4fe734c,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2012-11-12T07:51:03Z,2012-11-12T08:09:59Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,b79318df-9757-5468-0639-09c7e4fe734c,9564003,Complete blood count with white cell differential  automated (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2012-11-12T08:09:59Z,2012-11-12T08:40:05Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,b79318df-9757-5468-0639-09c7e4fe734c,313660005,Absolute CD4 count procedure (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2013-01-15T18:14:25Z,2013-01-15T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,8a5f9512-23c2-aac6-ffcb-4a041aaf3252,430193006,Medication Reconciliation (procedure),437.98,,
+2013-01-15T18:14:25Z,2013-01-15T19:01:05Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,8a5f9512-23c2-aac6-ffcb-4a041aaf3252,710824005,Assessment of health and social care needs (procedure),431.40,,
+2013-01-15T19:01:05Z,2013-01-15T19:22:14Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,8a5f9512-23c2-aac6-ffcb-4a041aaf3252,710841007,Assessment of anxiety (procedure),431.40,,
+2013-01-15T19:22:14Z,2013-01-15T19:32:47Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,8a5f9512-23c2-aac6-ffcb-4a041aaf3252,171207006,Depression screening (procedure),431.40,,
+2013-01-15T19:32:47Z,2013-01-15T19:54:54Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,8a5f9512-23c2-aac6-ffcb-4a041aaf3252,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2013-01-15T19:54:54Z,2013-01-15T20:08:37Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,8a5f9512-23c2-aac6-ffcb-4a041aaf3252,428211000124100,Assessment of substance use (procedure),431.40,,
+2013-01-15T20:08:37Z,2013-01-15T20:33:38Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,8a5f9512-23c2-aac6-ffcb-4a041aaf3252,713106006,Screening for drug abuse (procedure),431.40,,
+2013-02-10T08:40:05Z,2013-02-10T08:55:02Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,c79d3fa4-45ab-21e3-01a7-563c9e962b57,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2013-02-10T08:55:02Z,2013-02-10T09:25:36Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,c79d3fa4-45ab-21e3-01a7-563c9e962b57,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2013-02-10T09:25:36Z,2013-02-10T09:41:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,c79d3fa4-45ab-21e3-01a7-563c9e962b57,9564003,Complete blood count with white cell differential  automated (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2013-02-10T09:41:25Z,2013-02-10T10:38:28Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,c79d3fa4-45ab-21e3-01a7-563c9e962b57,313660005,Absolute CD4 count procedure (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2013-05-11T10:38:28Z,2013-05-11T10:53:19Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,2086b449-d240-4d83-d4b9-5e3705f4d3d4,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2013-05-11T10:53:19Z,2013-05-11T11:38:56Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,2086b449-d240-4d83-d4b9-5e3705f4d3d4,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2013-05-11T11:38:56Z,2013-05-11T11:54:03Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,2086b449-d240-4d83-d4b9-5e3705f4d3d4,9564003,Complete blood count with white cell differential  automated (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2013-05-11T11:54:03Z,2013-05-11T12:50:40Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,2086b449-d240-4d83-d4b9-5e3705f4d3d4,313660005,Absolute CD4 count procedure (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2013-08-09T12:50:40Z,2013-08-09T13:10:36Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,29dd7076-59d9-763d-ce81-04e8e77e4d95,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2013-08-09T13:10:36Z,2013-08-09T13:49:28Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,29dd7076-59d9-763d-ce81-04e8e77e4d95,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2013-08-09T13:49:28Z,2013-08-09T14:04:43Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,29dd7076-59d9-763d-ce81-04e8e77e4d95,9564003,Complete blood count with white cell differential  automated (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2013-08-09T14:04:43Z,2013-08-09T15:03:34Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,29dd7076-59d9-763d-ce81-04e8e77e4d95,313660005,Absolute CD4 count procedure (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2013-11-07T15:03:34Z,2013-11-07T15:15:32Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,9782a5cf-8940-5f4c-df79-32c506d37dbd,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2013-11-07T15:15:32Z,2013-11-07T16:05:21Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,9782a5cf-8940-5f4c-df79-32c506d37dbd,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2013-11-07T16:05:21Z,2013-11-07T16:16:17Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,9782a5cf-8940-5f4c-df79-32c506d37dbd,9564003,Complete blood count with white cell differential  automated (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2013-11-07T16:16:17Z,2013-11-07T17:07:14Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,9782a5cf-8940-5f4c-df79-32c506d37dbd,313660005,Absolute CD4 count procedure (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2014-01-21T18:14:25Z,2014-01-21T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,61d7801c-23ea-021c-0a9a-b7f86c760baf,430193006,Medication Reconciliation (procedure),594.23,,
+2014-01-21T18:14:25Z,2014-01-21T19:04:00Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,61d7801c-23ea-021c-0a9a-b7f86c760baf,710824005,Assessment of health and social care needs (procedure),431.40,,
+2014-02-05T17:07:14Z,2014-02-05T17:22:16Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,ce0e9604-adba-77ae-2473-2edd7367fb03,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2014-02-05T17:22:16Z,2014-02-05T18:08:23Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,ce0e9604-adba-77ae-2473-2edd7367fb03,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2014-02-05T18:08:23Z,2014-02-05T18:18:41Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,ce0e9604-adba-77ae-2473-2edd7367fb03,9564003,Complete blood count with white cell differential  automated (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2014-02-05T18:18:41Z,2014-02-05T19:16:09Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,ce0e9604-adba-77ae-2473-2edd7367fb03,313660005,Absolute CD4 count procedure (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2014-03-04T18:14:25Z,2014-03-04T19:00:37Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,04d49fc7-5112-e2f5-ead3-48aa56b0d8d3,710824005,Assessment of health and social care needs (procedure),431.40,,
+2014-03-04T19:00:37Z,2014-03-04T19:12:45Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,04d49fc7-5112-e2f5-ead3-48aa56b0d8d3,171207006,Depression screening (procedure),431.40,,
+2014-03-04T19:12:45Z,2014-03-04T19:41:10Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,04d49fc7-5112-e2f5-ead3-48aa56b0d8d3,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2014-03-04T19:41:10Z,2014-03-04T19:51:42Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,04d49fc7-5112-e2f5-ead3-48aa56b0d8d3,428211000124100,Assessment of substance use (procedure),431.40,,
+2014-03-04T19:51:42Z,2014-03-04T20:19:02Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,04d49fc7-5112-e2f5-ead3-48aa56b0d8d3,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2014-05-06T19:16:09Z,2014-05-06T19:28:31Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,ba57aa3d-bdd1-f1fa-7e31-63484ba692f5,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2014-05-06T19:28:31Z,2014-05-06T20:19:38Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,ba57aa3d-bdd1-f1fa-7e31-63484ba692f5,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2014-05-06T20:19:38Z,2014-05-06T20:30:03Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,ba57aa3d-bdd1-f1fa-7e31-63484ba692f5,9564003,Complete blood count with white cell differential  automated (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2014-05-06T20:30:03Z,2014-05-06T21:03:45Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,ba57aa3d-bdd1-f1fa-7e31-63484ba692f5,313660005,Absolute CD4 count procedure (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2014-08-04T21:03:45Z,2014-08-04T21:19:09Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,2c819311-af4e-9d84-516c-90c239cc148f,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2014-08-04T21:19:09Z,2014-08-04T22:00:15Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,2c819311-af4e-9d84-516c-90c239cc148f,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2014-08-04T22:00:15Z,2014-08-04T22:11:03Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,2c819311-af4e-9d84-516c-90c239cc148f,9564003,Complete blood count with white cell differential  automated (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2014-08-04T22:11:03Z,2014-08-04T22:41:26Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,2c819311-af4e-9d84-516c-90c239cc148f,313660005,Absolute CD4 count procedure (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2014-11-02T22:41:26Z,2014-11-02T22:53:44Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,872b01f8-b18f-e8c1-f36b-dd36327bb5ec,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2014-11-02T22:53:44Z,2014-11-02T23:44:24Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,872b01f8-b18f-e8c1-f36b-dd36327bb5ec,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2015-01-27T18:14:25Z,2015-01-27T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,5dfdc769-1562-3e56-7eb4-da2d095999f0,430193006,Medication Reconciliation (procedure),361.84,,
+2015-01-27T18:14:25Z,2015-01-27T18:48:35Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,5dfdc769-1562-3e56-7eb4-da2d095999f0,710824005,Assessment of health and social care needs (procedure),431.40,,
+2015-04-01T23:44:24Z,2015-04-02T00:01:50Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,48ab16c9-cbff-7753-921e-64c1b73970bf,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2015-04-02T00:01:50Z,2015-04-02T00:33:12Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,48ab16c9-cbff-7753-921e-64c1b73970bf,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2015-07-31T00:33:12Z,2015-07-31T00:50:30Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,87aedc27-4d04-2351-a695-4f1465b22081,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2015-07-31T00:50:30Z,2015-07-31T01:38:16Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,87aedc27-4d04-2351-a695-4f1465b22081,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2015-07-31T01:38:16Z,2015-07-31T01:49:03Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,87aedc27-4d04-2351-a695-4f1465b22081,9564003,Complete blood count with white cell differential  automated (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2015-07-31T01:49:03Z,2015-07-31T02:29:22Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,87aedc27-4d04-2351-a695-4f1465b22081,313660005,Absolute CD4 count procedure (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2015-12-28T02:29:22Z,2015-12-28T02:42:10Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,1074d3a7-c1f5-04e6-461a-b4cae7bbde0e,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2015-12-28T02:42:10Z,2015-12-28T03:25:21Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,1074d3a7-c1f5-04e6-461a-b4cae7bbde0e,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2016-02-02T18:14:25Z,2016-02-02T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,afc03de2-cba4-f399-f172-3aa476531513,430193006,Medication Reconciliation (procedure),384.04,,
+2016-02-02T18:14:25Z,2016-02-02T18:51:19Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,afc03de2-cba4-f399-f172-3aa476531513,710824005,Assessment of health and social care needs (procedure),431.40,,
+2016-02-02T18:51:19Z,2016-02-02T19:04:49Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,afc03de2-cba4-f399-f172-3aa476531513,171207006,Depression screening (procedure),431.40,,
+2016-02-02T19:04:49Z,2016-02-02T19:29:30Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,afc03de2-cba4-f399-f172-3aa476531513,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2016-04-26T03:25:21Z,2016-04-26T03:35:34Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,6d26958e-785d-2ec7-2e18-835baf9a647e,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2016-04-26T03:35:34Z,2016-04-26T04:34:24Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,6d26958e-785d-2ec7-2e18-835baf9a647e,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2016-08-24T04:34:24Z,2016-08-24T04:51:16Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,582c1a39-6335-ed72-fcf0-bd7378c54623,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2016-08-24T04:51:16Z,2016-08-24T05:35:21Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,582c1a39-6335-ed72-fcf0-bd7378c54623,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2016-08-24T05:35:21Z,2016-08-24T05:54:56Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,582c1a39-6335-ed72-fcf0-bd7378c54623,9564003,Complete blood count with white cell differential  automated (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2016-08-24T05:54:56Z,2016-08-24T06:39:45Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,582c1a39-6335-ed72-fcf0-bd7378c54623,313660005,Absolute CD4 count procedure (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2017-01-21T06:39:45Z,2017-01-21T06:52:36Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,65dcc8c2-cc61-fd01-8bdf-0366a4995d1c,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2017-01-21T06:52:36Z,2017-01-21T07:33:28Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,65dcc8c2-cc61-fd01-8bdf-0366a4995d1c,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2017-02-07T18:14:25Z,2017-02-07T18:49:55Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0e36fd67-dfbd-d53f-86a8-890773a33054,710824005,Assessment of health and social care needs (procedure),431.40,,
+2017-02-07T18:49:55Z,2017-02-07T19:29:08Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0e36fd67-dfbd-d53f-86a8-890773a33054,866148006,Screening for domestic abuse (procedure),431.40,,
+2017-02-07T19:29:08Z,2017-02-07T19:40:18Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0e36fd67-dfbd-d53f-86a8-890773a33054,428211000124100,Assessment of substance use (procedure),431.40,,
+2017-02-07T19:40:18Z,2017-02-07T20:04:36Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0e36fd67-dfbd-d53f-86a8-890773a33054,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2017-05-21T07:33:28Z,2017-05-21T07:51:15Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,14823f25-9a85-3502-3607-3260297c0445,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2017-05-21T07:51:15Z,2017-05-21T08:23:27Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,14823f25-9a85-3502-3607-3260297c0445,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2017-09-18T08:23:27Z,2017-09-18T08:33:55Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,89eeb166-e01a-2423-6d88-8ba46b8c11e0,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2017-09-18T08:33:55Z,2017-09-18T09:24:39Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,89eeb166-e01a-2423-6d88-8ba46b8c11e0,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2017-09-18T09:24:39Z,2017-09-18T09:38:34Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,89eeb166-e01a-2423-6d88-8ba46b8c11e0,9564003,Complete blood count with white cell differential  automated (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2017-09-18T09:38:34Z,2017-09-18T10:25:01Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,89eeb166-e01a-2423-6d88-8ba46b8c11e0,313660005,Absolute CD4 count procedure (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2018-01-16T10:25:01Z,2018-01-16T10:43:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0ae9a065-140e-b007-33ad-5cd7f2935d29,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2018-01-16T10:43:25Z,2018-01-16T11:19:13Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0ae9a065-140e-b007-33ad-5cd7f2935d29,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2018-02-13T18:14:25Z,2018-02-13T19:06:09Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,601ede9c-c6f5-2158-b804-024af971ec59,710824005,Assessment of health and social care needs (procedure),431.40,,
+2018-02-13T19:06:09Z,2018-02-13T19:31:08Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,601ede9c-c6f5-2158-b804-024af971ec59,710841007,Assessment of anxiety (procedure),431.40,,
+2018-02-13T19:31:08Z,2018-02-13T19:45:11Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,601ede9c-c6f5-2158-b804-024af971ec59,171207006,Depression screening (procedure),431.40,,
+2018-02-13T19:45:11Z,2018-02-13T20:12:24Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,601ede9c-c6f5-2158-b804-024af971ec59,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2018-06-15T11:19:13Z,2018-06-15T11:31:53Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,3b7a77e4-e6f0-6f2b-46ba-edfd10421a91,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2018-06-15T11:31:53Z,2018-06-15T12:25:35Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,3b7a77e4-e6f0-6f2b-46ba-edfd10421a91,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2018-10-13T12:25:35Z,2018-10-13T12:45:21Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,093892b6-755e-39fc-74cb-9d5bba2c39d9,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2018-10-13T12:45:21Z,2018-10-13T13:24:01Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,093892b6-755e-39fc-74cb-9d5bba2c39d9,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2018-10-13T13:24:01Z,2018-10-13T13:36:59Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,093892b6-755e-39fc-74cb-9d5bba2c39d9,9564003,Complete blood count with white cell differential  automated (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2018-10-13T13:36:59Z,2018-10-13T14:31:34Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,093892b6-755e-39fc-74cb-9d5bba2c39d9,313660005,Absolute CD4 count procedure (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2019-02-19T18:14:25Z,2019-02-19T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,d4fd3828-123c-0541-711f-411d14abb63f,430193006,Medication Reconciliation (procedure),602.57,,
+2019-02-19T18:14:25Z,2019-02-19T18:45:28Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,d4fd3828-123c-0541-711f-411d14abb63f,710824005,Assessment of health and social care needs (procedure),431.40,,
+2019-02-19T18:45:28Z,2019-02-19T19:12:39Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,d4fd3828-123c-0541-711f-411d14abb63f,710841007,Assessment of anxiety (procedure),431.40,,
+2019-02-19T19:12:39Z,2019-02-19T19:40:50Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,d4fd3828-123c-0541-711f-411d14abb63f,866148006,Screening for domestic abuse (procedure),431.40,,
+2019-02-19T19:40:50Z,2019-02-19T19:52:10Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,d4fd3828-123c-0541-711f-411d14abb63f,171207006,Depression screening (procedure),431.40,,
+2019-02-19T19:52:10Z,2019-02-19T20:16:47Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,d4fd3828-123c-0541-711f-411d14abb63f,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2019-02-19T20:16:47Z,2019-02-19T20:46:01Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,d4fd3828-123c-0541-711f-411d14abb63f,715252007,Depression screening using Patient Health Questionnaire Nine Item score (procedure),30.91,,
+2019-02-19T20:46:01Z,2019-02-19T20:59:16Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,d4fd3828-123c-0541-711f-411d14abb63f,428211000124100,Assessment of substance use (procedure),431.40,,
+2019-02-19T20:59:16Z,2019-02-19T21:26:16Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,d4fd3828-123c-0541-711f-411d14abb63f,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2019-03-12T14:31:34Z,2019-03-12T14:51:23Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,d5fde3bd-6234-1afd-c181-144a60451f61,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2019-03-12T14:51:23Z,2019-03-12T15:22:10Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,d5fde3bd-6234-1afd-c181-144a60451f61,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2019-07-10T15:22:10Z,2019-07-10T15:32:27Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0601d9df-f0ed-7db1-7418-cc05475b124a,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2019-07-10T15:32:27Z,2019-07-10T16:20:39Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,0601d9df-f0ed-7db1-7418-cc05475b124a,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2019-11-07T16:20:39Z,2019-11-07T16:33:57Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,f17d8f5d-0394-d441-a037-20edf3711c2c,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2019-11-07T16:33:57Z,2019-11-07T17:23:36Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,f17d8f5d-0394-d441-a037-20edf3711c2c,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2019-11-07T17:23:36Z,2019-11-07T17:42:12Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,f17d8f5d-0394-d441-a037-20edf3711c2c,9564003,Complete blood count with white cell differential  automated (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2019-11-07T17:42:12Z,2019-11-07T18:29:22Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,f17d8f5d-0394-d441-a037-20edf3711c2c,313660005,Absolute CD4 count procedure (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2020-02-25T18:14:25Z,2020-02-25T18:52:55Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,c8795eb8-c8c5-49f1-f5c8-00dd863866eb,710824005,Assessment of health and social care needs (procedure),431.40,,
+2020-02-25T18:52:55Z,2020-02-25T19:36:37Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,c8795eb8-c8c5-49f1-f5c8-00dd863866eb,866148006,Screening for domestic abuse (procedure),431.40,,
+2020-02-25T19:36:37Z,2020-02-25T19:47:33Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,c8795eb8-c8c5-49f1-f5c8-00dd863866eb,171207006,Depression screening (procedure),431.40,,
+2020-02-25T19:47:33Z,2020-02-25T20:08:44Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,c8795eb8-c8c5-49f1-f5c8-00dd863866eb,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2020-02-25T20:08:44Z,2020-02-25T20:22:24Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,c8795eb8-c8c5-49f1-f5c8-00dd863866eb,428211000124100,Assessment of substance use (procedure),431.40,,
+2020-02-25T20:22:24Z,2020-02-25T20:43:29Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,c8795eb8-c8c5-49f1-f5c8-00dd863866eb,713106006,Screening for drug abuse (procedure),431.40,,
+2020-04-05T18:29:22Z,2020-04-05T18:45:44Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,f5579d45-6871-e5b2-ebf4-dc9282d26aec,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2020-04-05T18:45:44Z,2020-04-05T19:43:13Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,f5579d45-6871-e5b2-ebf4-dc9282d26aec,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2020-08-03T19:43:13Z,2020-08-03T20:02:06Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,7b166792-37a1-58dd-8c35-e84d835dd601,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2020-08-03T20:02:06Z,2020-08-03T20:52:19Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,7b166792-37a1-58dd-8c35-e84d835dd601,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2020-12-01T20:52:19Z,2020-12-01T21:11:47Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,1df9901c-e6f6-fb9b-2a4d-4a466c1c5372,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2020-12-01T21:11:47Z,2020-12-01T21:41:51Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,1df9901c-e6f6-fb9b-2a4d-4a466c1c5372,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2020-12-01T21:41:51Z,2020-12-01T21:56:02Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,1df9901c-e6f6-fb9b-2a4d-4a466c1c5372,9564003,Complete blood count with white cell differential  automated (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2020-12-01T21:56:02Z,2020-12-01T22:51:19Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,1df9901c-e6f6-fb9b-2a4d-4a466c1c5372,313660005,Absolute CD4 count procedure (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2021-03-02T18:14:25Z,2021-03-02T19:05:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,95dcdf1a-e966-7f75-90e6-f5308e2d7430,710824005,Assessment of health and social care needs (procedure),431.40,,
+2021-03-02T19:05:25Z,2021-03-02T19:19:24Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,95dcdf1a-e966-7f75-90e6-f5308e2d7430,171207006,Depression screening (procedure),431.40,,
+2021-03-02T19:19:24Z,2021-03-02T19:41:24Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,95dcdf1a-e966-7f75-90e6-f5308e2d7430,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2021-03-02T19:41:24Z,2021-03-02T19:54:35Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,95dcdf1a-e966-7f75-90e6-f5308e2d7430,428211000124100,Assessment of substance use (procedure),431.40,,
+2021-03-02T19:54:35Z,2021-03-02T20:20:01Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,95dcdf1a-e966-7f75-90e6-f5308e2d7430,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2021-03-31T22:51:19Z,2021-03-31T23:02:44Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,8c36d4f5-fb99-199c-e5d5-39007d7fd478,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2021-03-31T23:02:44Z,2021-04-01T00:01:05Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,8c36d4f5-fb99-199c-e5d5-39007d7fd478,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2021-07-30T00:01:05Z,2021-07-30T00:20:16Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,ae0fa544-050a-7a32-5ef3-a0e77ce561f4,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2021-07-30T00:20:16Z,2021-07-30T01:05:55Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,ae0fa544-050a-7a32-5ef3-a0e77ce561f4,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2021-11-27T01:05:55Z,2021-11-27T01:17:37Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,3656b065-85ba-5f1e-abd5-5e1f05ba22fe,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2021-11-27T01:17:37Z,2021-11-27T02:11:22Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,3656b065-85ba-5f1e-abd5-5e1f05ba22fe,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2021-11-27T02:11:22Z,2021-11-27T02:30:32Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,3656b065-85ba-5f1e-abd5-5e1f05ba22fe,9564003,Complete blood count with white cell differential  automated (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2021-11-27T02:30:32Z,2021-11-27T03:00:56Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,3656b065-85ba-5f1e-abd5-5e1f05ba22fe,313660005,Absolute CD4 count procedure (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2022-03-08T18:14:25Z,2022-03-08T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,7fced958-dee1-6063-f1e9-255272005a09,430193006,Medication Reconciliation (procedure),492.91,,
+2022-03-08T18:14:25Z,2022-03-08T18:45:36Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,7fced958-dee1-6063-f1e9-255272005a09,710824005,Assessment of health and social care needs (procedure),431.40,,
+2022-03-08T18:45:36Z,2022-03-08T18:58:44Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,7fced958-dee1-6063-f1e9-255272005a09,171207006,Depression screening (procedure),431.40,,
+2022-03-08T18:58:44Z,2022-03-08T19:19:33Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,7fced958-dee1-6063-f1e9-255272005a09,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2022-03-08T19:19:33Z,2022-03-08T19:30:42Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,7fced958-dee1-6063-f1e9-255272005a09,428211000124100,Assessment of substance use (procedure),431.40,,
+2022-03-08T19:30:42Z,2022-03-08T19:54:51Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,7fced958-dee1-6063-f1e9-255272005a09,713106006,Screening for drug abuse (procedure),431.40,,
+2022-04-26T03:00:56Z,2022-04-26T03:16:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,83372b88-a2d6-8f1b-7f42-dc0c80d99832,67879005,History and physical examination  limited (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2022-04-26T03:16:25Z,2022-04-26T03:55:35Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,83372b88-a2d6-8f1b-7f42-dc0c80d99832,315124004,Human immunodeficiency virus viral load (procedure),431.40,86406008,Human immunodeficiency virus infection (disorder)
+2022-08-09T18:14:25Z,2022-08-09T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,310417005,Certification procedure (procedure),431.40,,
+2022-08-09T18:14:25Z,2022-08-09T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,185087000,Notifications (procedure),431.40,,
+2022-08-09T18:14:25Z,2022-08-09T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,315639002,Initial patient assessment (procedure),431.40,,
+2022-08-09T18:14:25Z,2022-08-09T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,370789001,Development of individualized plan of care (procedure),431.40,,
+2022-08-09T18:14:25Z,2022-08-09T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-08-10T18:14:25Z,2022-08-10T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-08-11T18:14:25Z,2022-08-11T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-08-12T18:14:25Z,2022-08-12T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-08-13T18:14:25Z,2022-08-13T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-08-14T18:14:25Z,2022-08-14T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-08-15T18:14:25Z,2022-08-15T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-08-16T18:14:25Z,2022-08-16T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-08-17T18:14:25Z,2022-08-17T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-08-18T18:14:25Z,2022-08-18T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-08-19T18:14:25Z,2022-08-19T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-08-20T18:14:25Z,2022-08-20T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-08-21T18:14:25Z,2022-08-21T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-08-22T18:14:25Z,2022-08-22T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-08-23T18:14:25Z,2022-08-23T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-08-24T18:14:25Z,2022-08-24T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-08-25T18:14:25Z,2022-08-25T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-08-26T18:14:25Z,2022-08-26T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-08-27T18:14:25Z,2022-08-27T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-08-28T18:14:25Z,2022-08-28T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-08-29T18:14:25Z,2022-08-29T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-08-30T18:14:25Z,2022-08-30T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-08-31T18:14:25Z,2022-08-31T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-09-01T18:14:25Z,2022-09-01T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-09-02T18:14:25Z,2022-09-02T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-09-03T18:14:25Z,2022-09-03T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-09-04T18:14:25Z,2022-09-04T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2022-09-05T18:14:25Z,2022-09-05T18:29:25Z,0432d0f1-d9c8-da30-9750-39bfe10c0cd9,bde585ad-e4de-01d0-caa5-9b100cc09360,385763009,Hospice care (regime/therapy),431.40,,
+2015-02-20T18:16:46Z,2015-02-20T18:55:57Z,920e3c45-f754-686a-a312-a070f4258dee,23c26a3c-904c-0516-4715-36a45220bb12,710824005,Assessment of health and social care needs (procedure),431.40,,
+2015-02-20T18:55:57Z,2015-02-20T19:07:59Z,920e3c45-f754-686a-a312-a070f4258dee,23c26a3c-904c-0516-4715-36a45220bb12,171207006,Depression screening (procedure),431.40,,
+2015-02-20T19:07:59Z,2015-02-20T19:37:07Z,920e3c45-f754-686a-a312-a070f4258dee,23c26a3c-904c-0516-4715-36a45220bb12,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2015-02-20T19:37:07Z,2015-02-20T19:50:52Z,920e3c45-f754-686a-a312-a070f4258dee,23c26a3c-904c-0516-4715-36a45220bb12,428211000124100,Assessment of substance use (procedure),431.40,,
+2015-02-20T19:50:52Z,2015-02-20T20:18:51Z,920e3c45-f754-686a-a312-a070f4258dee,23c26a3c-904c-0516-4715-36a45220bb12,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2015-03-06T18:16:46Z,2015-03-06T18:42:38Z,920e3c45-f754-686a-a312-a070f4258dee,bc52188c-fecf-626c-8ab8-0e56a68d240a,301807007,Removal of subcutaneous contraceptive,8302.90,,
+2015-03-06T18:42:38Z,2015-03-06T19:13:26Z,920e3c45-f754-686a-a312-a070f4258dee,bc52188c-fecf-626c-8ab8-0e56a68d240a,169553002,Insertion of subcutaneous contraceptive,6739.14,,
+2015-03-20T18:16:46Z,2015-03-20T18:44:40Z,920e3c45-f754-686a-a312-a070f4258dee,a9bf5307-f0a5-391c-1079-585f6bc109a4,301807007,Removal of subcutaneous contraceptive,6665.72,,
+2015-05-08T18:16:46Z,2015-05-08T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,41277e75-c993-8206-d92c-d847d1b6cbd7,252160004,Standard pregnancy test,5928.51,72892002,Normal pregnancy
+2015-05-08T18:16:46Z,2015-05-08T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,41277e75-c993-8206-d92c-d847d1b6cbd7,169230002,Ultrasound scan for fetal viability,5890.62,72892002,Normal pregnancy
+2015-05-08T18:16:46Z,2015-05-08T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,41277e75-c993-8206-d92c-d847d1b6cbd7,274804006,Evaluation of uterine fundal height,7016.62,72892002,Normal pregnancy
+2015-05-08T18:16:46Z,2015-05-08T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,41277e75-c993-8206-d92c-d847d1b6cbd7,225158009,Auscultation of the fetal heart,3054.71,72892002,Normal pregnancy
+2015-05-08T18:16:46Z,2015-05-08T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,41277e75-c993-8206-d92c-d847d1b6cbd7,44608003,Blood group typing (procedure),2700.31,72892002,Normal pregnancy
+2015-05-08T18:16:46Z,2015-05-08T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,41277e75-c993-8206-d92c-d847d1b6cbd7,104091002,Hemogram  automated  with RBC  WBC  Hgb  Hct  Indices  Platelet count  and manual WBC differential,1931.03,72892002,Normal pregnancy
+2015-05-08T18:16:46Z,2015-05-08T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,41277e75-c993-8206-d92c-d847d1b6cbd7,47758006,Hepatitis B Surface Antigen Measurement,1994.67,72892002,Normal pregnancy
+2015-05-08T18:16:46Z,2015-05-08T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,41277e75-c993-8206-d92c-d847d1b6cbd7,31676001,Human immunodeficiency virus antigen test,1774.73,72892002,Normal pregnancy
+2015-05-08T18:16:46Z,2015-05-08T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,41277e75-c993-8206-d92c-d847d1b6cbd7,310861008,Chlamydia antigen test,1675.51,72892002,Normal pregnancy
+2015-05-08T18:16:46Z,2015-05-08T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,41277e75-c993-8206-d92c-d847d1b6cbd7,165829005,Gonorrhea infection titer test (procedure),1366.74,72892002,Normal pregnancy
+2015-05-08T18:16:46Z,2015-05-08T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,41277e75-c993-8206-d92c-d847d1b6cbd7,269828009,Syphilis infectious titer test (procedure),2218.38,72892002,Normal pregnancy
+2015-05-08T18:16:46Z,2015-05-08T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,41277e75-c993-8206-d92c-d847d1b6cbd7,117010004,Urine culture,1787.25,72892002,Normal pregnancy
+2015-05-08T18:16:46Z,2015-05-08T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,41277e75-c993-8206-d92c-d847d1b6cbd7,90226004,Cytopathology procedure  preparation of smear  genital source,3033.36,72892002,Normal pregnancy
+2015-05-08T18:16:46Z,2015-05-08T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,41277e75-c993-8206-d92c-d847d1b6cbd7,395123002,Urine screening test for diabetes,1993.52,72892002,Normal pregnancy
+2015-05-08T18:16:46Z,2015-05-08T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,41277e75-c993-8206-d92c-d847d1b6cbd7,104375008,Hepatitis C antibody  confirmatory test,3221.96,72892002,Normal pregnancy
+2015-05-08T18:16:46Z,2015-05-08T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,41277e75-c993-8206-d92c-d847d1b6cbd7,169690007,Rubella screening,1766.12,72892002,Normal pregnancy
+2015-05-08T18:16:46Z,2015-05-08T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,41277e75-c993-8206-d92c-d847d1b6cbd7,104326007,Measurement of Varicella-zoster virus antibody,1728.94,72892002,Normal pregnancy
+2015-05-08T18:16:46Z,2015-05-08T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,41277e75-c993-8206-d92c-d847d1b6cbd7,28163009,Skin test for tuberculosis  Tine test (procedure),2339.22,72892002,Normal pregnancy
+2015-05-08T18:16:46Z,2015-05-08T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,41277e75-c993-8206-d92c-d847d1b6cbd7,167271000,Urine protein test,1941.75,72892002,Normal pregnancy
+2015-05-08T18:16:46Z,2015-05-08T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,41277e75-c993-8206-d92c-d847d1b6cbd7,5880005,Physical examination procedure (procedure),431.40,72892002,Normal pregnancy
+2015-05-08T18:16:46Z,2015-05-08T18:46:46Z,920e3c45-f754-686a-a312-a070f4258dee,854bea60-2403-c646-7b70-a6c81718ae5e,14768001,Peripheral blood smear interpretation,431.40,,
+2015-05-08T18:46:46Z,2015-05-08T18:57:11Z,920e3c45-f754-686a-a312-a070f4258dee,854bea60-2403-c646-7b70-a6c81718ae5e,415300000,Review of systems (procedure),66.49,,
+2015-05-08T18:57:11Z,2015-05-08T19:14:59Z,920e3c45-f754-686a-a312-a070f4258dee,854bea60-2403-c646-7b70-a6c81718ae5e,430193006,Medication Reconciliation (procedure),387.45,,
+2015-05-08T19:14:59Z,2015-05-08T19:30:23Z,920e3c45-f754-686a-a312-a070f4258dee,854bea60-2403-c646-7b70-a6c81718ae5e,162676008,Brief general examination (procedure),68.68,,
+2015-06-05T19:30:23Z,2015-06-05T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,664f956c-e661-e91b-90c8-3b72df958cc0,274804006,Evaluation of uterine fundal height,3192.41,72892002,Normal pregnancy
+2015-06-05T19:30:23Z,2015-06-05T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,664f956c-e661-e91b-90c8-3b72df958cc0,225158009,Auscultation of the fetal heart,4879.13,72892002,Normal pregnancy
+2015-06-05T19:30:23Z,2015-06-05T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,664f956c-e661-e91b-90c8-3b72df958cc0,443529005,Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure),1425.39,72892002,Normal pregnancy
+2015-07-03T19:30:23Z,2015-07-03T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,c5eab4d1-7009-1361-6795-a9329e719b03,271442007,Fetal anatomy study,431.40,72892002,Normal pregnancy
+2015-07-03T19:30:23Z,2015-07-03T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,c5eab4d1-7009-1361-6795-a9329e719b03,275833003,AFP test - antenatal,1566.27,72892002,Normal pregnancy
+2015-07-03T19:30:23Z,2015-07-03T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,c5eab4d1-7009-1361-6795-a9329e719b03,274804006,Evaluation of uterine fundal height,7003.39,72892002,Normal pregnancy
+2015-07-03T19:30:23Z,2015-07-03T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,c5eab4d1-7009-1361-6795-a9329e719b03,225158009,Auscultation of the fetal heart,5331.58,72892002,Normal pregnancy
+2015-07-31T19:30:23Z,2015-07-31T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,e62c3389-5811-78a1-9191-d44b5f3d1be9,274804006,Evaluation of uterine fundal height,4658.45,72892002,Normal pregnancy
+2015-07-31T19:30:23Z,2015-07-31T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,e62c3389-5811-78a1-9191-d44b5f3d1be9,225158009,Auscultation of the fetal heart,5089.65,72892002,Normal pregnancy
+2015-08-28T19:30:23Z,2015-08-28T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,d0eff4d7-bb71-c9f4-628d-998a5aabe986,274804006,Evaluation of uterine fundal height,5853.47,72892002,Normal pregnancy
+2015-08-28T19:30:23Z,2015-08-28T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,d0eff4d7-bb71-c9f4-628d-998a5aabe986,225158009,Auscultation of the fetal heart,5621.54,72892002,Normal pregnancy
+2015-09-25T19:30:23Z,2015-09-25T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,3f07f1ff-0185-c4f8-ed42-93d084f22270,169673001,Antenatal RhD antibody screening,2260.71,72892002,Normal pregnancy
+2015-09-25T19:30:23Z,2015-09-25T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,3f07f1ff-0185-c4f8-ed42-93d084f22270,51116004,Passive immunization (procedure),1485.00,72892002,Normal pregnancy
+2015-09-25T19:30:23Z,2015-09-25T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,3f07f1ff-0185-c4f8-ed42-93d084f22270,104091002,Hemogram  automated  with RBC  WBC  Hgb  Hct  Indices  Platelet count  and manual WBC differential,1637.86,72892002,Normal pregnancy
+2015-09-25T19:30:23Z,2015-09-25T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,3f07f1ff-0185-c4f8-ed42-93d084f22270,399014008,Administration of diphtheria  pertussis  and tetanus vaccine,2221.69,72892002,Normal pregnancy
+2015-09-25T19:30:23Z,2015-09-25T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,3f07f1ff-0185-c4f8-ed42-93d084f22270,268556000,Urine screening for glucose,1976.95,72892002,Normal pregnancy
+2015-09-25T19:30:23Z,2015-09-25T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,3f07f1ff-0185-c4f8-ed42-93d084f22270,274804006,Evaluation of uterine fundal height,5386.81,72892002,Normal pregnancy
+2015-09-25T19:30:23Z,2015-09-25T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,3f07f1ff-0185-c4f8-ed42-93d084f22270,225158009,Auscultation of the fetal heart,4856.96,72892002,Normal pregnancy
+2015-10-23T19:30:23Z,2015-10-23T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,4dcf1643-aa14-6c8b-24ad-cbf767cbd390,274804006,Evaluation of uterine fundal height,5165.08,72892002,Normal pregnancy
+2015-10-23T19:30:23Z,2015-10-23T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,4dcf1643-aa14-6c8b-24ad-cbf767cbd390,225158009,Auscultation of the fetal heart,3701.88,72892002,Normal pregnancy
+2015-11-20T19:30:23Z,2015-11-20T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,8c4bfa8d-57b9-4e2a-7f77-5b331ec7b61a,118001005,Streptococcus pneumoniae group B antigen assay,1785.73,72892002,Normal pregnancy
+2015-11-20T19:30:23Z,2015-11-20T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,8c4bfa8d-57b9-4e2a-7f77-5b331ec7b61a,274804006,Evaluation of uterine fundal height,7787.44,72892002,Normal pregnancy
+2015-11-20T19:30:23Z,2015-11-20T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,8c4bfa8d-57b9-4e2a-7f77-5b331ec7b61a,225158009,Auscultation of the fetal heart,3543.23,72892002,Normal pregnancy
+2015-12-04T19:30:23Z,2015-12-04T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,2332e24b-01f3-d227-cf7c-3837a955f059,274804006,Evaluation of uterine fundal height,3655.17,72892002,Normal pregnancy
+2015-12-04T19:30:23Z,2015-12-04T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,2332e24b-01f3-d227-cf7c-3837a955f059,225158009,Auscultation of the fetal heart,5581.13,72892002,Normal pregnancy
+2015-12-11T19:30:23Z,2015-12-11T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,b4f876ba-ac8e-0bd6-fe92-e2d167d163d6,66348005,Childbirth,431.40,72892002,Normal pregnancy
+2016-01-22T19:30:23Z,2016-01-22T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,564aa1e2-d0a4-b01e-5037-b41b23bfe0c2,51116004,Passive immunization (procedure),2296.93,,
+2016-01-22T19:30:23Z,2016-01-22T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,564aa1e2-d0a4-b01e-5037-b41b23bfe0c2,5880005,Physical examination procedure (procedure),431.40,,
+2016-01-22T19:30:23Z,2016-01-22T19:45:23Z,920e3c45-f754-686a-a312-a070f4258dee,564aa1e2-d0a4-b01e-5037-b41b23bfe0c2,171207006,Depression screening,431.40,,
+2016-02-26T18:16:46Z,2016-02-26T19:06:20Z,920e3c45-f754-686a-a312-a070f4258dee,15b10e86-3dac-9c3c-daeb-83692388ca36,710824005,Assessment of health and social care needs (procedure),431.40,,
+2016-02-26T19:06:20Z,2016-02-26T19:44:59Z,920e3c45-f754-686a-a312-a070f4258dee,15b10e86-3dac-9c3c-daeb-83692388ca36,866148006,Screening for domestic abuse (procedure),431.40,,
+2016-02-26T19:44:59Z,2016-02-26T19:57:05Z,920e3c45-f754-686a-a312-a070f4258dee,15b10e86-3dac-9c3c-daeb-83692388ca36,428211000124100,Assessment of substance use (procedure),431.40,,
+2016-02-26T19:57:05Z,2016-02-26T20:17:29Z,920e3c45-f754-686a-a312-a070f4258dee,15b10e86-3dac-9c3c-daeb-83692388ca36,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2017-03-03T18:16:46Z,2017-03-03T19:00:44Z,920e3c45-f754-686a-a312-a070f4258dee,74d9c25d-b732-26c9-c2c2-f49346195994,710824005,Assessment of health and social care needs (procedure),431.40,,
+2017-03-03T19:00:44Z,2017-03-03T19:15:30Z,920e3c45-f754-686a-a312-a070f4258dee,74d9c25d-b732-26c9-c2c2-f49346195994,171207006,Depression screening (procedure),431.40,,
+2017-03-03T19:15:30Z,2017-03-03T19:37:47Z,920e3c45-f754-686a-a312-a070f4258dee,74d9c25d-b732-26c9-c2c2-f49346195994,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2017-03-03T19:37:47Z,2017-03-03T19:50:58Z,920e3c45-f754-686a-a312-a070f4258dee,74d9c25d-b732-26c9-c2c2-f49346195994,428211000124100,Assessment of substance use (procedure),431.40,,
+2017-03-03T19:50:58Z,2017-03-03T20:12:47Z,920e3c45-f754-686a-a312-a070f4258dee,74d9c25d-b732-26c9-c2c2-f49346195994,713106006,Screening for drug abuse (procedure),431.40,,
+2018-02-02T18:16:46Z,2018-02-02T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,b9315968-ab5d-2d85-ba08-c59694ff6435,252160004,Standard pregnancy test,4896.66,72892002,Normal pregnancy
+2018-02-02T18:16:46Z,2018-02-02T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,b9315968-ab5d-2d85-ba08-c59694ff6435,169230002,Ultrasound scan for fetal viability,6987.35,72892002,Normal pregnancy
+2018-02-02T18:16:46Z,2018-02-02T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,b9315968-ab5d-2d85-ba08-c59694ff6435,274804006,Evaluation of uterine fundal height,5145.01,72892002,Normal pregnancy
+2018-02-02T18:16:46Z,2018-02-02T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,b9315968-ab5d-2d85-ba08-c59694ff6435,225158009,Auscultation of the fetal heart,4630.91,72892002,Normal pregnancy
+2018-02-02T18:16:46Z,2018-02-02T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,b9315968-ab5d-2d85-ba08-c59694ff6435,44608003,Blood group typing (procedure),2187.24,72892002,Normal pregnancy
+2018-02-02T18:16:46Z,2018-02-02T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,b9315968-ab5d-2d85-ba08-c59694ff6435,104091002,Hemogram  automated  with RBC  WBC  Hgb  Hct  Indices  Platelet count  and manual WBC differential,2124.63,72892002,Normal pregnancy
+2018-02-02T18:16:46Z,2018-02-02T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,b9315968-ab5d-2d85-ba08-c59694ff6435,47758006,Hepatitis B Surface Antigen Measurement,1741.88,72892002,Normal pregnancy
+2018-02-02T18:16:46Z,2018-02-02T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,b9315968-ab5d-2d85-ba08-c59694ff6435,31676001,Human immunodeficiency virus antigen test,2059.62,72892002,Normal pregnancy
+2018-02-02T18:16:46Z,2018-02-02T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,b9315968-ab5d-2d85-ba08-c59694ff6435,310861008,Chlamydia antigen test,2216.11,72892002,Normal pregnancy
+2018-02-02T18:16:46Z,2018-02-02T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,b9315968-ab5d-2d85-ba08-c59694ff6435,165829005,Gonorrhea infection titer test (procedure),1989.94,72892002,Normal pregnancy
+2018-02-02T18:16:46Z,2018-02-02T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,b9315968-ab5d-2d85-ba08-c59694ff6435,269828009,Syphilis infectious titer test (procedure),1730.47,72892002,Normal pregnancy
+2018-02-02T18:16:46Z,2018-02-02T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,b9315968-ab5d-2d85-ba08-c59694ff6435,117010004,Urine culture,1841.75,72892002,Normal pregnancy
+2018-02-02T18:16:46Z,2018-02-02T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,b9315968-ab5d-2d85-ba08-c59694ff6435,90226004,Cytopathology procedure  preparation of smear  genital source,1559.69,72892002,Normal pregnancy
+2018-02-02T18:16:46Z,2018-02-02T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,b9315968-ab5d-2d85-ba08-c59694ff6435,395123002,Urine screening test for diabetes,1504.01,72892002,Normal pregnancy
+2018-02-02T18:16:46Z,2018-02-02T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,b9315968-ab5d-2d85-ba08-c59694ff6435,104375008,Hepatitis C antibody  confirmatory test,2594.04,72892002,Normal pregnancy
+2018-02-02T18:16:46Z,2018-02-02T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,b9315968-ab5d-2d85-ba08-c59694ff6435,169690007,Rubella screening,1565.43,72892002,Normal pregnancy
+2018-02-02T18:16:46Z,2018-02-02T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,b9315968-ab5d-2d85-ba08-c59694ff6435,104326007,Measurement of Varicella-zoster virus antibody,1673.69,72892002,Normal pregnancy
+2018-02-02T18:16:46Z,2018-02-02T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,b9315968-ab5d-2d85-ba08-c59694ff6435,28163009,Skin test for tuberculosis  Tine test (procedure),2308.92,72892002,Normal pregnancy
+2018-02-02T18:16:46Z,2018-02-02T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,b9315968-ab5d-2d85-ba08-c59694ff6435,167271000,Urine protein test,2049.61,72892002,Normal pregnancy
+2018-02-02T18:16:46Z,2018-02-02T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,b9315968-ab5d-2d85-ba08-c59694ff6435,5880005,Physical examination procedure (procedure),431.40,72892002,Normal pregnancy
+2018-03-02T18:16:46Z,2018-03-02T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,0574b370-8cec-4e94-da06-2d5436116a38,274804006,Evaluation of uterine fundal height,7552.63,72892002,Normal pregnancy
+2018-03-02T18:16:46Z,2018-03-02T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,0574b370-8cec-4e94-da06-2d5436116a38,225158009,Auscultation of the fetal heart,3065.66,72892002,Normal pregnancy
+2018-03-02T18:16:46Z,2018-03-02T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,0574b370-8cec-4e94-da06-2d5436116a38,443529005,Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure),2053.30,72892002,Normal pregnancy
+2018-03-09T18:16:46Z,2018-03-09T19:04:58Z,920e3c45-f754-686a-a312-a070f4258dee,82ee551f-06b8-8c94-3bf5-17cb8e23b490,710824005,Assessment of health and social care needs (procedure),431.40,,
+2018-03-09T19:04:58Z,2018-03-09T19:41:49Z,920e3c45-f754-686a-a312-a070f4258dee,82ee551f-06b8-8c94-3bf5-17cb8e23b490,866148006,Screening for domestic abuse (procedure),431.40,,
+2018-03-30T18:16:46Z,2018-03-30T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,c5c5597f-b7a5-e0da-888e-00eecf64563e,271442007,Fetal anatomy study,431.40,72892002,Normal pregnancy
+2018-03-30T18:16:46Z,2018-03-30T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,c5c5597f-b7a5-e0da-888e-00eecf64563e,275833003,AFP test - antenatal,1723.12,72892002,Normal pregnancy
+2018-03-30T18:16:46Z,2018-03-30T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,c5c5597f-b7a5-e0da-888e-00eecf64563e,274804006,Evaluation of uterine fundal height,6975.27,72892002,Normal pregnancy
+2018-03-30T18:16:46Z,2018-03-30T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,c5c5597f-b7a5-e0da-888e-00eecf64563e,225158009,Auscultation of the fetal heart,3234.38,72892002,Normal pregnancy
+2018-04-27T18:16:46Z,2018-04-27T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,c4b63458-4b2b-6ff8-0e29-03f2624c8793,274804006,Evaluation of uterine fundal height,5622.39,72892002,Normal pregnancy
+2018-04-27T18:16:46Z,2018-04-27T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,c4b63458-4b2b-6ff8-0e29-03f2624c8793,225158009,Auscultation of the fetal heart,4333.58,72892002,Normal pregnancy
+2018-05-25T18:16:46Z,2018-05-25T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,607c0177-3695-1c2b-4844-883189f7301c,274804006,Evaluation of uterine fundal height,4828.61,72892002,Normal pregnancy
+2018-05-25T18:16:46Z,2018-05-25T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,607c0177-3695-1c2b-4844-883189f7301c,225158009,Auscultation of the fetal heart,4867.51,72892002,Normal pregnancy
+2018-06-22T18:16:46Z,2018-06-22T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,ce99554e-6e7d-42b6-e303-f6ac20481dc0,169673001,Antenatal RhD antibody screening,999.66,72892002,Normal pregnancy
+2018-06-22T18:16:46Z,2018-06-22T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,ce99554e-6e7d-42b6-e303-f6ac20481dc0,51116004,Passive immunization (procedure),1506.14,72892002,Normal pregnancy
+2018-06-22T18:16:46Z,2018-06-22T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,ce99554e-6e7d-42b6-e303-f6ac20481dc0,104091002,Hemogram  automated  with RBC  WBC  Hgb  Hct  Indices  Platelet count  and manual WBC differential,1108.45,72892002,Normal pregnancy
+2018-06-22T18:16:46Z,2018-06-22T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,ce99554e-6e7d-42b6-e303-f6ac20481dc0,399014008,Administration of diphtheria  pertussis  and tetanus vaccine,2257.85,72892002,Normal pregnancy
+2018-06-22T18:16:46Z,2018-06-22T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,ce99554e-6e7d-42b6-e303-f6ac20481dc0,268556000,Urine screening for glucose,2325.12,72892002,Normal pregnancy
+2018-06-22T18:16:46Z,2018-06-22T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,ce99554e-6e7d-42b6-e303-f6ac20481dc0,274804006,Evaluation of uterine fundal height,6776.00,72892002,Normal pregnancy
+2018-06-22T18:16:46Z,2018-06-22T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,ce99554e-6e7d-42b6-e303-f6ac20481dc0,225158009,Auscultation of the fetal heart,2777.93,72892002,Normal pregnancy
+2018-07-20T18:16:46Z,2018-07-20T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,f7cea6bf-4782-2b4e-a2c3-b557b2c7bd7d,274804006,Evaluation of uterine fundal height,7832.45,72892002,Normal pregnancy
+2018-07-20T18:16:46Z,2018-07-20T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,f7cea6bf-4782-2b4e-a2c3-b557b2c7bd7d,225158009,Auscultation of the fetal heart,3852.33,72892002,Normal pregnancy
+2018-08-17T18:16:46Z,2018-08-17T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,5db44f29-b520-c4bf-abef-da67bebd5019,118001005,Streptococcus pneumoniae group B antigen assay,1472.54,72892002,Normal pregnancy
+2018-08-17T18:16:46Z,2018-08-17T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,5db44f29-b520-c4bf-abef-da67bebd5019,274804006,Evaluation of uterine fundal height,6398.57,72892002,Normal pregnancy
+2018-08-17T18:16:46Z,2018-08-17T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,5db44f29-b520-c4bf-abef-da67bebd5019,225158009,Auscultation of the fetal heart,6227.05,72892002,Normal pregnancy
+2018-08-31T18:16:46Z,2018-08-31T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,daa75cce-5744-c48b-b250-a6cd7a4f6a8f,274804006,Evaluation of uterine fundal height,2743.68,72892002,Normal pregnancy
+2018-08-31T18:16:46Z,2018-08-31T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,daa75cce-5744-c48b-b250-a6cd7a4f6a8f,225158009,Auscultation of the fetal heart,6313.40,72892002,Normal pregnancy
+2018-09-07T18:16:46Z,2018-09-07T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,5eae06fc-9b05-210e-0e54-039f6d012bca,31208007,Medical induction of labor,3984.86,72892002,Normal pregnancy
+2018-09-07T18:16:46Z,2018-09-07T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,5eae06fc-9b05-210e-0e54-039f6d012bca,66348005,Childbirth,431.40,72892002,Normal pregnancy
+2018-10-19T18:16:46Z,2018-10-19T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,30b2d126-35bf-5621-e545-805af9b43de5,51116004,Passive immunization (procedure),3774.18,,
+2018-10-19T18:16:46Z,2018-10-19T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,30b2d126-35bf-5621-e545-805af9b43de5,5880005,Physical examination procedure (procedure),431.40,,
+2018-10-19T18:16:46Z,2018-10-19T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,30b2d126-35bf-5621-e545-805af9b43de5,171207006,Depression screening,431.40,,
+2019-03-15T18:16:46Z,2019-03-15T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,69882474-0e92-9f8b-10e6-9a28599168ff,430193006,Medication Reconciliation (procedure),577.95,,
+2019-03-15T18:16:46Z,2019-03-15T19:11:08Z,920e3c45-f754-686a-a312-a070f4258dee,69882474-0e92-9f8b-10e6-9a28599168ff,710824005,Assessment of health and social care needs (procedure),431.40,,
+2019-03-15T19:11:08Z,2019-03-15T19:39:21Z,920e3c45-f754-686a-a312-a070f4258dee,69882474-0e92-9f8b-10e6-9a28599168ff,710841007,Assessment of anxiety (procedure),431.40,,
+2019-03-15T19:39:21Z,2019-03-15T20:22:50Z,920e3c45-f754-686a-a312-a070f4258dee,69882474-0e92-9f8b-10e6-9a28599168ff,866148006,Screening for domestic abuse (procedure),431.40,,
+2019-03-15T20:22:50Z,2019-03-15T20:36:58Z,920e3c45-f754-686a-a312-a070f4258dee,69882474-0e92-9f8b-10e6-9a28599168ff,171207006,Depression screening (procedure),431.40,,
+2019-03-15T20:36:58Z,2019-03-15T21:03:36Z,920e3c45-f754-686a-a312-a070f4258dee,69882474-0e92-9f8b-10e6-9a28599168ff,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2019-03-15T21:03:36Z,2019-03-15T21:18:30Z,920e3c45-f754-686a-a312-a070f4258dee,69882474-0e92-9f8b-10e6-9a28599168ff,428211000124100,Assessment of substance use (procedure),431.40,,
+2019-03-15T21:18:30Z,2019-03-15T21:47:10Z,920e3c45-f754-686a-a312-a070f4258dee,69882474-0e92-9f8b-10e6-9a28599168ff,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2020-03-20T18:16:46Z,2020-03-20T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,e99c7022-f0a8-1cce-872c-129f238009a3,430193006,Medication Reconciliation (procedure),328.26,,
+2020-03-20T18:16:46Z,2020-03-20T19:10:04Z,920e3c45-f754-686a-a312-a070f4258dee,e99c7022-f0a8-1cce-872c-129f238009a3,710824005,Assessment of health and social care needs (procedure),431.40,,
+2020-03-20T19:10:04Z,2020-03-20T19:37:41Z,920e3c45-f754-686a-a312-a070f4258dee,e99c7022-f0a8-1cce-872c-129f238009a3,710841007,Assessment of anxiety (procedure),431.40,,
+2020-03-20T19:37:41Z,2020-03-20T19:49:27Z,920e3c45-f754-686a-a312-a070f4258dee,e99c7022-f0a8-1cce-872c-129f238009a3,428211000124100,Assessment of substance use (procedure),431.40,,
+2020-03-20T19:49:27Z,2020-03-20T20:10:18Z,920e3c45-f754-686a-a312-a070f4258dee,e99c7022-f0a8-1cce-872c-129f238009a3,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2021-03-26T18:16:46Z,2021-03-26T19:03:37Z,920e3c45-f754-686a-a312-a070f4258dee,77071bfc-94ec-240c-7fdf-71ed003e09fe,710824005,Assessment of health and social care needs (procedure),431.40,,
+2021-03-26T19:03:37Z,2021-03-26T19:30:29Z,920e3c45-f754-686a-a312-a070f4258dee,77071bfc-94ec-240c-7fdf-71ed003e09fe,710841007,Assessment of anxiety (procedure),431.40,,
+2021-03-26T19:30:29Z,2021-03-26T19:42:31Z,920e3c45-f754-686a-a312-a070f4258dee,77071bfc-94ec-240c-7fdf-71ed003e09fe,171207006,Depression screening (procedure),431.40,,
+2021-03-26T19:42:31Z,2021-03-26T20:07:22Z,920e3c45-f754-686a-a312-a070f4258dee,77071bfc-94ec-240c-7fdf-71ed003e09fe,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2021-03-26T20:07:22Z,2021-03-26T20:19:14Z,920e3c45-f754-686a-a312-a070f4258dee,77071bfc-94ec-240c-7fdf-71ed003e09fe,428211000124100,Assessment of substance use (procedure),431.40,,
+2021-03-26T20:19:14Z,2021-03-26T20:44:13Z,920e3c45-f754-686a-a312-a070f4258dee,77071bfc-94ec-240c-7fdf-71ed003e09fe,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2021-12-17T18:16:46Z,2021-12-17T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,e38f02bc-d154-c24e-bc88-9f26b9375cc3,252160004,Standard pregnancy test,4534.23,72892002,Normal pregnancy
+2021-12-17T18:16:46Z,2021-12-17T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,e38f02bc-d154-c24e-bc88-9f26b9375cc3,169230002,Ultrasound scan for fetal viability,7478.22,72892002,Normal pregnancy
+2022-01-05T18:16:46Z,2022-01-05T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,bc195119-e25e-c362-cf61-5f7863428699,51116004,Passive immunization (procedure),1950.17,72892002,Normal pregnancy
+2022-01-05T18:16:46Z,2022-01-05T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,bc195119-e25e-c362-cf61-5f7863428699,5880005,Physical examination procedure (procedure),431.40,72892002,Normal pregnancy
+2022-01-05T18:16:46Z,2022-01-05T18:31:46Z,920e3c45-f754-686a-a312-a070f4258dee,bc195119-e25e-c362-cf61-5f7863428699,171207006,Depression screening,431.40,156073000,Complete miscarriage (disorder)
+2022-04-01T18:16:46Z,2022-04-01T19:11:21Z,920e3c45-f754-686a-a312-a070f4258dee,9e7db4a6-dfa6-c2db-66c7-b4e9532970d9,710824005,Assessment of health and social care needs (procedure),431.40,,
+2022-04-01T19:11:21Z,2022-04-01T19:21:51Z,920e3c45-f754-686a-a312-a070f4258dee,9e7db4a6-dfa6-c2db-66c7-b4e9532970d9,171207006,Depression screening (procedure),431.40,,
+2022-04-01T19:21:51Z,2022-04-01T19:50:01Z,920e3c45-f754-686a-a312-a070f4258dee,9e7db4a6-dfa6-c2db-66c7-b4e9532970d9,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2022-04-01T19:50:01Z,2022-04-01T20:00:54Z,920e3c45-f754-686a-a312-a070f4258dee,9e7db4a6-dfa6-c2db-66c7-b4e9532970d9,428211000124100,Assessment of substance use (procedure),431.40,,
+2022-04-01T20:00:54Z,2022-04-01T20:27:15Z,920e3c45-f754-686a-a312-a070f4258dee,9e7db4a6-dfa6-c2db-66c7-b4e9532970d9,713106006,Screening for drug abuse (procedure),431.40,,
+2023-04-07T18:16:46Z,2023-04-07T19:11:56Z,920e3c45-f754-686a-a312-a070f4258dee,dca74124-bce6-4791-1c50-f19df51de3b9,710824005,Assessment of health and social care needs (procedure),431.40,,
+2023-04-07T19:11:56Z,2023-04-07T19:41:18Z,920e3c45-f754-686a-a312-a070f4258dee,dca74124-bce6-4791-1c50-f19df51de3b9,866148006,Screening for domestic abuse (procedure),431.40,,
+2023-04-07T19:41:18Z,2023-04-07T19:53:30Z,920e3c45-f754-686a-a312-a070f4258dee,dca74124-bce6-4791-1c50-f19df51de3b9,171207006,Depression screening (procedure),431.40,,
+2023-04-07T19:53:30Z,2023-04-07T20:14:27Z,920e3c45-f754-686a-a312-a070f4258dee,dca74124-bce6-4791-1c50-f19df51de3b9,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2023-04-07T20:14:27Z,2023-04-07T20:28:20Z,920e3c45-f754-686a-a312-a070f4258dee,dca74124-bce6-4791-1c50-f19df51de3b9,428211000124100,Assessment of substance use (procedure),431.40,,
+2023-04-07T20:28:20Z,2023-04-07T20:56:24Z,920e3c45-f754-686a-a312-a070f4258dee,dca74124-bce6-4791-1c50-f19df51de3b9,713106006,Screening for drug abuse (procedure),431.40,,
+2024-04-12T18:16:46Z,2024-04-12T19:06:06Z,920e3c45-f754-686a-a312-a070f4258dee,c4b250ce-3175-fd72-90e9-3278dd3c2559,710824005,Assessment of health and social care needs (procedure),431.40,,
+2024-04-12T19:06:06Z,2024-04-12T19:35:59Z,920e3c45-f754-686a-a312-a070f4258dee,c4b250ce-3175-fd72-90e9-3278dd3c2559,710841007,Assessment of anxiety (procedure),431.40,,
+2024-04-12T19:35:59Z,2024-04-12T19:49:32Z,920e3c45-f754-686a-a312-a070f4258dee,c4b250ce-3175-fd72-90e9-3278dd3c2559,428211000124100,Assessment of substance use (procedure),431.40,,
+2024-04-12T19:49:32Z,2024-04-12T20:17:49Z,920e3c45-f754-686a-a312-a070f4258dee,c4b250ce-3175-fd72-90e9-3278dd3c2559,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2014-12-02T18:14:25Z,2014-12-02T18:29:25Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,f945d4ed-3653-8d44-9f04-2beca0d47f1e,430193006,Medication Reconciliation (procedure),272.51,,
+2014-12-02T18:14:25Z,2014-12-02T18:46:38Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,f945d4ed-3653-8d44-9f04-2beca0d47f1e,710824005,Assessment of health and social care needs (procedure),431.40,,
+2014-12-02T18:46:38Z,2014-12-02T19:12:18Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,f945d4ed-3653-8d44-9f04-2beca0d47f1e,710841007,Assessment of anxiety (procedure),431.40,,
+2014-12-02T19:12:18Z,2014-12-02T19:39:30Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,f945d4ed-3653-8d44-9f04-2beca0d47f1e,866148006,Screening for domestic abuse (procedure),431.40,,
+2015-04-07T21:59:21Z,2015-04-07T22:06:44Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,a154c44c-3f57-b002-3a42-b90213a4306d,390791001,Referral for echocardiography (procedure),431.40,60234000,Aortic valve regurgitation (disorder)
+2015-04-07T22:06:44Z,2015-04-07T22:36:44Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,a154c44c-3f57-b002-3a42-b90213a4306d,433236007,Transthoracic echocardiography (procedure),431.40,,
+2017-01-11T22:06:44Z,2017-01-11T22:26:38Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,fe449073-9290-aef3-1243-a14fa540c466,390791001,Referral for echocardiography (procedure),431.40,60234000,Aortic valve regurgitation (disorder)
+2017-01-11T22:26:38Z,2017-01-11T22:56:38Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,fe449073-9290-aef3-1243-a14fa540c466,433236007,Transthoracic echocardiography (procedure),431.40,,
+2017-02-14T20:10:45Z,2017-02-14T20:40:45Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,e797d3fd-73d4-3802-cfc2-90ba4051dee9,399208008,Chest X-ray,7352.03,,
+2017-02-14T20:10:45Z,2017-02-14T20:46:05Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,e797d3fd-73d4-3802-cfc2-90ba4051dee9,274474001,Bone immobilization,431.40,33737001,Fracture of rib
+2017-12-05T18:14:25Z,2017-12-05T18:29:25Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,254bab3b-8575-7d5b-9761-67e744148939,430193006,Medication Reconciliation (procedure),670.03,,
+2017-12-05T18:14:25Z,2017-12-05T19:12:10Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,254bab3b-8575-7d5b-9761-67e744148939,710824005,Assessment of health and social care needs (procedure),431.40,,
+2017-12-05T19:12:10Z,2017-12-05T19:33:51Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,254bab3b-8575-7d5b-9761-67e744148939,710841007,Assessment of anxiety (procedure),431.40,,
+2017-12-05T19:33:51Z,2017-12-05T19:47:07Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,254bab3b-8575-7d5b-9761-67e744148939,428211000124100,Assessment of substance use (procedure),431.40,,
+2017-12-05T19:47:07Z,2017-12-05T20:12:24Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,254bab3b-8575-7d5b-9761-67e744148939,713106006,Screening for drug abuse (procedure),431.40,,
+2018-05-15T18:14:25Z,2018-05-15T18:29:25Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,f805ef23-5f39-787c-3b7e-42b344a8d38e,430193006,Medication Reconciliation (procedure),521.07,,
+2018-05-15T18:14:25Z,2018-05-15T18:49:11Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,f805ef23-5f39-787c-3b7e-42b344a8d38e,710824005,Assessment of health and social care needs (procedure),431.40,,
+2018-05-15T18:49:11Z,2018-05-15T19:18:30Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,f805ef23-5f39-787c-3b7e-42b344a8d38e,710841007,Assessment of anxiety (procedure),431.40,,
+2018-12-20T22:26:38Z,2018-12-20T22:52:35Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,85c1e9aa-0f47-a3c8-37e5-011472fba7d1,390791001,Referral for echocardiography (procedure),431.40,60234000,Aortic valve regurgitation (disorder)
+2018-12-20T22:52:35Z,2018-12-20T23:22:35Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,85c1e9aa-0f47-a3c8-37e5-011472fba7d1,433236007,Transthoracic echocardiography (procedure),431.40,,
+2019-08-30T22:52:35Z,2019-08-30T23:13:20Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,945c28af-32e8-5580-a7ba-8b71bbab4019,390791001,Referral for echocardiography (procedure),431.40,60234000,Aortic valve regurgitation (disorder)
+2019-08-30T23:13:20Z,2019-08-30T23:43:20Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,945c28af-32e8-5580-a7ba-8b71bbab4019,433236007,Transthoracic echocardiography (procedure),431.40,,
+2019-10-13T22:14:25Z,2019-10-13T22:24:52Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,ea7f562d-f2e1-cbb5-9156-3f95b7dff9aa,23426006,Measurement of respiratory function (procedure),425.39,10509002,Acute bronchitis (disorder)
+2019-10-22T18:14:25Z,2019-10-22T18:49:29Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,14a03d57-59e4-f1a3-3835-b87dbba190bb,710824005,Assessment of health and social care needs (procedure),431.40,,
+2019-10-22T18:49:29Z,2019-10-22T19:08:18Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,14a03d57-59e4-f1a3-3835-b87dbba190bb,710841007,Assessment of anxiety (procedure),431.40,,
+2019-10-22T19:08:18Z,2019-10-22T19:21:57Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,14a03d57-59e4-f1a3-3835-b87dbba190bb,171207006,Depression screening (procedure),431.40,,
+2019-10-22T19:21:57Z,2019-10-22T19:46:23Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,14a03d57-59e4-f1a3-3835-b87dbba190bb,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2019-10-22T19:46:23Z,2019-10-22T19:59:34Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,14a03d57-59e4-f1a3-3835-b87dbba190bb,428211000124100,Assessment of substance use (procedure),431.40,,
+2019-10-22T19:59:34Z,2019-10-22T20:24:42Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,14a03d57-59e4-f1a3-3835-b87dbba190bb,763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),431.40,,
+2020-12-08T18:14:25Z,2020-12-08T18:56:05Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,39e332e0-494d-0333-23e6-f4ea91d2152a,710824005,Assessment of health and social care needs (procedure),431.40,,
+2020-12-08T18:56:05Z,2020-12-08T19:19:57Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,39e332e0-494d-0333-23e6-f4ea91d2152a,710841007,Assessment of anxiety (procedure),431.40,,
+2020-12-08T19:19:57Z,2020-12-08T20:02:28Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,39e332e0-494d-0333-23e6-f4ea91d2152a,866148006,Screening for domestic abuse (procedure),431.40,,
+2020-12-08T20:02:28Z,2020-12-08T20:16:24Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,39e332e0-494d-0333-23e6-f4ea91d2152a,171207006,Depression screening (procedure),431.40,,
+2020-12-08T20:16:24Z,2020-12-08T20:38:58Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,39e332e0-494d-0333-23e6-f4ea91d2152a,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2020-12-08T20:38:58Z,2020-12-08T20:52:29Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,39e332e0-494d-0333-23e6-f4ea91d2152a,428211000124100,Assessment of substance use (procedure),431.40,,
+2020-12-08T20:52:29Z,2020-12-08T21:19:46Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,39e332e0-494d-0333-23e6-f4ea91d2152a,713106006,Screening for drug abuse (procedure),431.40,,
+2021-03-24T23:13:20Z,2021-03-24T23:30:25Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,ca52e2b9-e673-0705-1994-ebf8e64219ea,390791001,Referral for echocardiography (procedure),431.40,60234000,Aortic valve regurgitation (disorder)
+2021-03-24T23:30:25Z,2021-03-25T00:00:25Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,ca52e2b9-e673-0705-1994-ebf8e64219ea,433236007,Transthoracic echocardiography (procedure),431.40,,
+2021-08-08T12:14:25Z,2021-08-08T12:23:02Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,877425bd-bb60-4c6b-a307-79fc724bfee4,269911007,Sputum examination (procedure),5079.95,10509002,Acute bronchitis (disorder)
+2021-08-17T18:14:25Z,2021-08-17T18:58:53Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,02e41029-d4c6-67b6-94c5-0689e7b2261f,710824005,Assessment of health and social care needs (procedure),431.40,,
+2021-08-17T18:58:53Z,2021-08-17T19:13:27Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,02e41029-d4c6-67b6-94c5-0689e7b2261f,171207006,Depression screening (procedure),431.40,,
+2021-08-17T19:13:27Z,2021-08-17T19:38:45Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,02e41029-d4c6-67b6-94c5-0689e7b2261f,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),431.40,,
+2023-09-26T18:14:25Z,2023-09-26T19:05:50Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,b34d6f97-47d2-86f4-f364-c7871e086743,710824005,Assessment of health and social care needs (procedure),431.40,,
+2023-09-26T19:05:50Z,2023-09-26T19:33:40Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,b34d6f97-47d2-86f4-f364-c7871e086743,710841007,Assessment of anxiety (procedure),431.40,,
+2024-03-17T23:30:25Z,2024-03-17T23:36:47Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,1175f1ef-e241-4d0a-5838-7beffbf61c2b,390791001,Referral for echocardiography (procedure),431.40,60234000,Aortic valve regurgitation (disorder)
+2024-03-17T23:36:47Z,2024-03-18T00:06:47Z,9f39bf35-ea79-4383-4eb1-36c43280dff2,1175f1ef-e241-4d0a-5838-7beffbf61c2b,433236007,Transthoracic echocardiography (procedure),431.40,,
